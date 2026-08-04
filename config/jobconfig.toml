@@ -23,8 +23,8 @@
 "# Playtime Requirements" = 180
 "# Required Account Age" = 30
 "# Required Character Age" = 0
-"# Spawn Positions" = 1
-"# Total Positions" = 1
+"Spawn Positions" = 0
+"Total Positions" = 0
 
 [ASSISTANT]
 "# Playtime Requirements" = 0
@@ -138,8 +138,8 @@
 "# Playtime Requirements" = 120
 "# Required Account Age" = 21
 "# Required Character Age" = 0
-"# Spawn Positions" = 3
-"# Total Positions" = 0
+"Spawn Positions" = 0
+"Total Positions" = 0
 
 [DETECTIVE]
 "# Playtime Requirements" = 300
