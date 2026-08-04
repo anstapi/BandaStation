@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"map_name": "Mars",
+	"map_path": "bandastation/Mars",
+	"map_file": "Mars.dmm",
+	"fluff_name": "Марс",
+	"main_floor": 2,
+	"shuttles": {
+		"cargo": "cargo_box",
+		"ferry": "ferry_fancy",
+		"whiteship": "whiteship_delta",
+		"emergency": "emergency_delta"
+	}
+}

@@ -246,3 +246,19 @@
 	max_integrity = 1000
 	impressiveness = 0
 	abstract_type = /obj/structure/statue/dummy
+
+/obj/structure/statue/catholic_statue
+	name = "Католическая статуя"
+	desc = "Статуя, изображающая католического святого. Она символизирует веру и духовность, а также служит напоминанием о религиозных ценностях и традициях."
+	icon = 'modular_bandastation/objects/icons/obj/structures/statuelarge.dmi'
+	icon_state = "catholic_statue"
+	anchored = TRUE
+	abstract_type = /obj/structure/statue/catholic_statue
+
+/obj/structure/statue/catholic_wall
+	name = "Католическая статуя в стене"
+	desc = "Статуя, встроенная в стену, изображающая католического святого. Она символизирует веру и духовность, а также служит напоминанием о религиозных ценностях и традициях."
+	icon = 'modular_bandastation/objects/icons/obj/structures/statuelarge.dmi'
+	icon_state = "catholic_wall"
+	anchored = TRUE
+	abstract_type = /obj/structure/statue/catholic_wall

@@ -16,7 +16,7 @@
 #define RADIO_TOKEN_ENGINEERING ":e"
 #define RADIO_COLOR_ENGINEERING "#f37746"
 
-#define RADIO_CHANNEL_COMMAND "Командование"
+#define RADIO_CHANNEL_COMMAND "Управление"
 #define RADIO_KEY_COMMAND "c"
 #define RADIO_TOKEN_COMMAND ":c"
 #define RADIO_COLOR_COMMAND "#fcdf03"
