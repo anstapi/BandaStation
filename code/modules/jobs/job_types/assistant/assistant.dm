@@ -21,6 +21,9 @@ Assistant
 	liver_traits = list(TRAIT_MAINTENANCE_METABOLISM)
 
 	department_for_prefs = /datum/job_department/assistant
+	departments_list = list(
+		/datum/job_department/assistant,
+	)
 
 	family_heirlooms = list(/obj/item/storage/toolbox/mechanical/old/heirloom, /obj/item/clothing/gloves/cut/heirloom)
 
@@ -53,6 +56,7 @@ Assistant
 /datum/outfit/job/assistant
 	name = JOB_ASSISTANT
 	jobtype = /datum/job/assistant
+	id = /obj/item/card/id/advanced/tsf
 	id_trim = /datum/id_trim/job/assistant
 	belt = /obj/item/modular_computer/pda/assistant
 

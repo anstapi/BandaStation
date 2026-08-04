@@ -53,7 +53,7 @@
 
 /obj/item/ammo_box/magazine/smgm9mm
 	name = "\improper SMG magazine (9mm)"
-	desc = "A sleek 9mm magazine, suitable for the Nanotrasen Saber SMG."
+	desc = "A sleek 9mm magazine, suitable for the Trans-Solar Federation Saber SMG."
 	icon_state = "smg9mm"
 	base_icon_state = "smg9mm"
 	ammo_type = /obj/item/ammo_casing/c9mm

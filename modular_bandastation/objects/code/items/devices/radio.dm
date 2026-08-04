@@ -23,7 +23,7 @@
 	. = ..()
 	AddComponent(/datum/component/wearertargeting/earprotection, list(ITEM_SLOT_EARS))
 
-// Nanotrasen Representative
+// Trans-Solar Federation Representative
 /obj/item/encryptionkey/heads/nanotrasen_representative
 	name = "nanotrasen representative's encryption key"
 	icon_state = "cypherkey_centcom"

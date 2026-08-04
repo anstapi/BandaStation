@@ -264,7 +264,7 @@
 	item_path = /obj/item/disk/holodisk
 
 /datum/loadout_item/pocket_items/mug_nt
-	name = "Nanotrasen Mug"
+	name = "Trans-Solar Federation Mug"
 	item_path = /obj/item/reagent_containers/cup/glass/mug/nanotrasen
 
 /datum/loadout_item/pocket_items/britcup

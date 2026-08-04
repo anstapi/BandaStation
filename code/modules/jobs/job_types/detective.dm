@@ -50,7 +50,7 @@
 	name = "Detective"
 	jobtype = /datum/job/detective
 
-	id = /obj/item/card/id/advanced/plainclothes
+	id = /obj/item/card/id/advanced/tsf
 
 	id_trim = /datum/id_trim/job/detective
 	uniform = /obj/item/clothing/under/rank/security/detective

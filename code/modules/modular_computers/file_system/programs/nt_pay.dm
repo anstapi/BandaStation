@@ -7,7 +7,7 @@
 
 /datum/computer_file/program/nt_pay
 	filename = "ntpay"
-	filedesc = "Nanotrasen Pay System"
+	filedesc = "Trans-Solar Federation Pay System"
 	downloader_category = PROGRAM_CATEGORY_DEVICE
 	program_open_overlay = "generic"
 	extended_desc = "Приложение, которое локально (в вашем секторе) помогает переводить деньги или отслеживать расходы и прибыль."

@@ -20,7 +20,7 @@
 /datum/supply_pack/organic/hydroponics/beekeeping_fullkit
 	name = "Beekeeping Starter Crate"
 	desc = "BEES BEES BEES. Contains three honey frames, a beekeeper suit and helmet, \
-		flyswatter, bee house, and, of course, a pure-bred Nanotrasen-Standardized Queen Bee!"
+		flyswatter, bee house, and, of course, a pure-bred Trans-Solar Federation-Standardized Queen Bee!"
 	cost = CARGO_CRATE_VALUE * 3
 	contains = list(/obj/structure/beebox/unwrenched,
 					/obj/item/honey_frame = 3,
@@ -273,7 +273,7 @@
 /datum/supply_pack/organic/potted_plants
 	name = "Potted Plants Crate"
 	desc = "Spruce up the station with these lovely plants! Contains a random \
-		assortment of five potted plants from Nanotrasen's potted plant research division. \
+		assortment of five potted plants from Trans-Solar Federation's potted plant research division. \
 		Warranty void if thrown."
 	cost = CARGO_CRATE_VALUE * 1.5
 	contains = list(/obj/item/kirbyplants/random = 5)
@@ -392,7 +392,7 @@
 /datum/supply_pack/organic/beer_keg
 	name = "Beer Keg"
 	desc = "The perfect way to start your shift... or end it. \
-	Contains a full barrel of Nanotrasen brewed, low-grade alcoholic beverage, \
+	Contains a full barrel of Trans-Solar Federation brewed, low-grade alcoholic beverage, \
 	perfect for getting loose after a hard day of not dying."
 	cost = CARGO_CRATE_VALUE * 6.25
 	contains = list(/obj/structure/reagent_dispensers/keg/beer)
@@ -401,7 +401,7 @@
 
 /datum/supply_pack/organic/nutraslop
 	name = "Nutraslop Serving Dish"
-	desc = "A culinary masterpiece created from all of Nanotrasen's previous culinary... innovations. \
+	desc = "A culinary masterpiece created from all of Trans-Solar Federation's previous culinary... innovations. \
 	A single bite will transport you back to the taste of yesterday's prison rations. \
 	Contains a serving dish filled with Nutraslop."
 	cost = CARGO_CRATE_VALUE * 4

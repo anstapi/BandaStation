@@ -61,7 +61,7 @@
 	bodyshapes_with_variations = NONE
 
 /obj/item/clothing/under/rank/rnd/research_director/turtleneck
-	desc = "A Nanotrasen-purple turtleneck and black jeans, for a director with a superior sense of style."
+	desc = "A Trans-Solar Federation-purple turtleneck and black jeans, for a director with a superior sense of style."
 	name = "research director's turtleneck"
 	icon_state = "rdturtle"
 	inhand_icon_state = "p_suit"
@@ -70,7 +70,7 @@
 
 /obj/item/clothing/under/rank/rnd/research_director/turtleneck/skirt
 	name = "research director's turtleneck skirt"
-	desc = "A Nanotrasen-purple turtleneck and a black skirt, for a director with a superior sense of style."
+	desc = "A Trans-Solar Federation-purple turtleneck and a black skirt, for a director with a superior sense of style."
 	icon_state = "rdturtle_skirt"
 	body_parts_covered = CHEST|GROIN|ARMS
 	dying_key = DYE_REGISTRY_JUMPSKIRT

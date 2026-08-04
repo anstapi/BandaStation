@@ -4,7 +4,7 @@
 	default_raw_text = "Your boss here, corporate said something about this studio being unprofitable. \
 	you know what those penny-pinchers mean by now. Make do with what you got to raise up those viewership numbers! \
 	There's no other support i'm able to give you beside the new director I just sent ya, with you far out from the core regions and all. \
-	I hear a Nanotrasen station is setting up shop in the space sector though. \
+	I hear a Trans-Solar Federation station is setting up shop in the space sector though. \
 	Entertain them! that should get corporate to stop siphoning funds from us! - Boss"
 
 /obj/item/paper/fluff/ruins/film_studio/director_note

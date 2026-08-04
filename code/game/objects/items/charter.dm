@@ -100,7 +100,7 @@
 
 
 /obj/item/station_charter/banner
-	name = "\improper Nanotrasen banner"
+	name = "\improper Trans-Solar Federation banner"
 	icon = 'icons/obj/banner.dmi'
 	name_type = "planet"
 	icon_state = "banner"
@@ -116,7 +116,7 @@
 	minor_announce("[ureal_name] переименовал [name_type] в [html_decode(station_name())]", "Флаг капитана") //decode station_name to avoid minor_announce double encode
 	log_game("[ukey] has renamed the [name_type] as [station_name()].")
 	name = "banner of [station_name()]"
-	desc = "The banner bears the official coat of arms of Nanotrasen, signifying that [station_name()] has been claimed by Captain [uname] in the name of the company."
+	desc = "The banner bears the official coat of arms of Trans-Solar Federation, signifying that [station_name()] has been claimed by Captain [uname] in the name of the company."
 	SSblackbox.record_feedback("text", "station_renames", 1, "[station_name()]")
 	if(!unlimited_uses)
 		used = TRUE

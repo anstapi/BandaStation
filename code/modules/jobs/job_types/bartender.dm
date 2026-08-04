@@ -1,6 +1,6 @@
 /datum/job/bartender
 	title = JOB_BARTENDER
-	description = "Подавайте спиртное, смешивайте напитки, следите за тем, чтобы экипаж был пьян."
+	description = "Подавайте спиртное, смешивайте напитки, следите за тем, чтобы город УТОНУЛ в алкоголе."
 	faction = FACTION_STATION
 	total_positions = 1
 	spawn_positions = 1
@@ -49,6 +49,7 @@
 	name = "Bartender"
 	jobtype = /datum/job/bartender
 
+	id = /obj/item/card/id/advanced/tsf
 	id_trim = /datum/id_trim/job/bartender
 	neck = /obj/item/clothing/neck/bowtie
 	uniform = /obj/item/clothing/under/costume/buttondown/slacks/service

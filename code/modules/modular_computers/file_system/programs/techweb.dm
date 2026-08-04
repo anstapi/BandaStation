@@ -1,6 +1,6 @@
 /datum/computer_file/program/science
 	filename = "experi_track"
-	filedesc = "Nanotrasen Science Hub"
+	filedesc = "Trans-Solar Federation Science Hub"
 	downloader_category = PROGRAM_CATEGORY_SCIENCE
 	program_open_overlay = "research"
 	extended_desc = "Подключитесь к внутреннему научному серверу, чтобы помочь в исследованиях на станции."

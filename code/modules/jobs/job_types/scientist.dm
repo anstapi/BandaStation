@@ -40,6 +40,7 @@
 	name = "Scientist"
 	jobtype = /datum/job/scientist
 
+	id = /obj/item/card/id/advanced/tsf
 	id_trim = /datum/id_trim/job/scientist
 	uniform = /obj/item/clothing/under/rank/rnd/scientist
 	suit = /obj/item/clothing/suit/toggle/labcoat/science

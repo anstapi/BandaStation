@@ -1212,7 +1212,7 @@
 
 /datum/reagent/consumable/ethanol/grog
 	name = "Grog"
-	description = "Watered-down rum, Nanotrasen approves!"
+	description = "Watered-down rum, Trans-Solar Federation approves!"
 	color = "#e0e058" // rgb: 224,224,88
 	boozepwr = 1 //Basically nothing
 	taste_description = "a poor excuse for alcohol"
@@ -1264,7 +1264,7 @@
 
 /datum/reagent/consumable/ethanol/amasec
 	name = "Amasec"
-	description = "Official drink of the Nanotrasen Gun-Club!"
+	description = "Official drink of the Trans-Solar Federation Gun-Club!"
 	color = "#e0e058" // rgb: 224,224,88
 	boozepwr = 45
 	quality = DRINK_GOOD
@@ -3444,7 +3444,7 @@
 
 /datum/reagent/consumable/ethanol/poets_dream
 	name = "Poet's Dream"
-	description = "This cocktail takes a classic martini base and twists it into a deliciously sweet and herbal mode. Nanotrasen regulations state not to drink this too soon before sleep, or risk 'oneiric encroachment,' whatever that means."
+	description = "This cocktail takes a classic martini base and twists it into a deliciously sweet and herbal mode. Trans-Solar Federation regulations state not to drink this too soon before sleep, or risk 'oneiric encroachment,' whatever that means."
 	boozepwr = 50
 	color = "#d4b14f"
 	quality = DRINK_GOOD

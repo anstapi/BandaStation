@@ -14,7 +14,7 @@ Unused icons for new areas are "awaycontent1" ~ "awaycontent30"
 	skip_minimap_rendering = TRUE
 
 /area/awaymission/museum
-	name = "Nanotrasen Museum"
+	name = "Trans-Solar Federation Museum"
 	icon_state = "awaycontent28"
 	sound_environment = SOUND_ENVIRONMENT_CONCERT_HALL
 
@@ -26,11 +26,11 @@ Unused icons for new areas are "awaycontent1" ~ "awaycontent30"
 	ambientsounds = list('sound/ambience/beach/shore.ogg', 'sound/ambience/misc/ambiodd.ogg','sound/ambience/medical/ambinice.ogg')
 
 /area/awaymission/museum/cafeteria
-	name = "Nanotrasen Museum Cafeteria"
+	name = "Trans-Solar Federation Museum Cafeteria"
 	sound_environment = SOUND_ENVIRONMENT_ROOM
 
 /area/awaymission/museum/inaccessible
-	name = "Nanotrasen Museum (INACCESSIBLE)"
+	name = "Trans-Solar Federation Museum (INACCESSIBLE)"
 	icon_state = "away_inaccessible"
 	area_flags = NOTELEPORT|HIDDEN_AREA
 

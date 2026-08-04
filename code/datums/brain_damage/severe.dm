@@ -282,7 +282,7 @@
 	lose_text = span_notice("Вы чувствуете, как тяжесть свалилась с ваших плеч.")
 	random_gain = FALSE
 	known_trauma = FALSE
-	var/trigger_phrase = "Nanotrasen"
+	var/trigger_phrase = "Trans-Solar Federation"
 
 /datum/brain_trauma/severe/hypnotic_trigger/New(phrase)
 	..()

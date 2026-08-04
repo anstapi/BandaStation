@@ -910,7 +910,7 @@ GLOBAL_LIST_INIT(paper_blanks, init_paper_blanks())
  */
 /obj/item/toner
 	name = "toner cartridge"
-	desc = "A small, lightweight cartridge of Nanotrasen ValueBrand toner. Fits photocopiers and autopainters alike."
+	desc = "A small, lightweight cartridge of Trans-Solar Federation ValueBrand toner. Fits photocopiers and autopainters alike."
 	icon = 'icons/obj/service/bureaucracy.dmi'
 	icon_state = "tonercartridge"
 	w_class = WEIGHT_CLASS_SMALL
@@ -927,7 +927,7 @@ GLOBAL_LIST_INIT(paper_blanks, init_paper_blanks())
 
 /obj/item/toner/large
 	name = "large toner cartridge"
-	desc = "A hefty cartridge of Nanotrasen ValueBrand toner. Fits photocopiers and autopainters alike."
+	desc = "A hefty cartridge of Trans-Solar Federation ValueBrand toner. Fits photocopiers and autopainters alike."
 	custom_materials = list(/datum/material/iron = SMALL_MATERIAL_AMOUNT * 0.5, /datum/material/glass = SMALL_MATERIAL_AMOUNT * 0.5)
 	charges = 25
 	max_charges = 25

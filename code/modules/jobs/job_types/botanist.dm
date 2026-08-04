@@ -1,6 +1,6 @@
 /datum/job/botanist
 	title = JOB_BOTANIST
-	description = "Выращивайте растения для повара, медицины и отдыха."
+	description = "Вы ботаник. Выращивайте растения, делайте мутантов, не допускайте распространения кудзу"
 	faction = FACTION_STATION
 	total_positions = 3
 	spawn_positions = 2

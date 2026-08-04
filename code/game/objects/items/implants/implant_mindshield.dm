@@ -5,7 +5,7 @@
 
 	implant_info = "Automatically activates upon implantation. Provides protection against brainwashing."
 
-	implant_lore = "The Nanotrasen Employee Management Implant is a specialized subdermal nanite manufactory that \
+	implant_lore = "The Trans-Solar Federation Employee Management Implant is a specialized subdermal nanite manufactory that \
 		both protects the host's mental faculties from, and reverses, external forms of manipulation, \
 		such as reprogrammed flashbulbs, hypnotic suggestion, and, theoretically, magical induction into cults."
 

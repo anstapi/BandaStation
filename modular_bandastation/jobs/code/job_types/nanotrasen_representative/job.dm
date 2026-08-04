@@ -1,11 +1,11 @@
 /datum/job/nanotrasen_representative
 	title = JOB_NANOTRASEN_REPRESENTATIVE
-	description = "Следите за работой глав, держите связь с Центральным Командованием, следите за выполнением задач смены"
+	description = "Следите за работой глав, держите связь с Командованием ТСФ"
 	auto_deadmin_role_flags = DEADMIN_POSITION_HEAD
 	faction = FACTION_STATION
 	total_positions = 1
 	spawn_positions = 1
-	supervisors = "Центральное Командование"
+	supervisors = "Командование ТСФ"
 	minimal_player_age = 14
 	exp_requirements = 1500
 	exp_required_type = EXP_TYPE_CREW

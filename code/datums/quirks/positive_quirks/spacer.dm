@@ -4,11 +4,11 @@
 
 /datum/quirk/spacer_born
 	name = "Spacer"
-	desc = "Вы родились в космосе и никогда не знали, что такое планетарная гравитация. Ваше тело приспособилось к этому. \
+	desc = "Вы родились на Марсе и никогда не знали, что такое планетарная гравитация. Ваше тело приспособилось к этому. \
 		Вы чувствуете себя более комфортно в условиях нулевой и искусственной гравитации и более устойчивы к воздействию космоса, \
 		но длительное пребывание на поверхности планеты приведет к тому, что вы почувствуете себя плохо."
-	gain_text = span_notice("В космосе вы чувствуете себя как рыба в воде.")
-	lose_text = span_danger("Кажется, в космосе уже не так комфортно, как раньше.")
+	gain_text = span_notice("На Марсе вы чувствуете себя как рыба в воде.")
+	lose_text = span_danger("Кажется, на Марсе уже не так комфортно, как раньше.")
 	icon = FA_ICON_USER_ASTRONAUT
 	value = 5
 	quirk_flags = QUIRK_HUMAN_ONLY|QUIRK_CHANGES_APPEARANCE
@@ -200,7 +200,7 @@
 	afflicted.remove_status_effect(/datum/status_effect/spacer)
 	afflicted.clear_mood_event("spacer")
 	// Does not remove the movement modifier yet, it lingers until you fully recover
-	to_chat(afflicted, span_green("Вы начинаете чувствовать себя лучше, когда возвращаетесь в космос."))
+	to_chat(afflicted, span_green("Вы начинаете чувствовать себя лучше, когда возвращаетесь на Марс."))
 
 /**
  * Ran when living back in space, or just no-grav in general, for a long enough period.

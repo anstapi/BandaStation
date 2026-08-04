@@ -326,7 +326,7 @@
 
 /obj/item/surgical_drapes
 	name = "surgical drapes"
-	desc = "Nanotrasen brand surgical drapes provide optimal safety and infection control."
+	desc = "Trans-Solar Federation brand surgical drapes provide optimal safety and infection control."
 	icon = 'icons/obj/medical/surgery_tools.dmi'
 	icon_state = "surgical_drapes"
 	worn_icon = "drapes"

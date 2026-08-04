@@ -1,7 +1,7 @@
-// Nanotrasen Representative
+// Trans-Solar Federation Representative
 /obj/item/clothing/head/hats/nanotrasen_representative
-	name = "Nanotrasen Representative's hat"
-	desc = "A cap issued to Nanotrasen Representatives."
+	name = "Trans-Solar Federation Representative's hat"
+	desc = "A cap issued to Trans-Solar Federation Representatives."
 	icon = 'modular_bandastation/objects/icons/obj/clothing/head/hats.dmi'
 	worn_icon = 'modular_bandastation/objects/icons/mob/clothing/head/hats.dmi'
 	icon_state = "nanotrasen_representative"

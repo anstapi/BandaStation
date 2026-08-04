@@ -82,7 +82,7 @@
 
 /datum/map_template/shuttle/assault_pod/nanotrasen
 	suffix = "nt"
-	name = "assault pod (Nanotrasen)"
+	name = "assault pod (Trans-Solar Federation)"
 	prefix = "_maps/shuttles/ss220/"
 
 /datum/map_template/shuttle/emergency/mothsm

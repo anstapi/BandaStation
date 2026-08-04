@@ -1,6 +1,6 @@
 /obj/item/storage/backpack/blueshield
 	name = "blueshield backpack"
-	desc = "A robust backpack issued to Nanotrasen's finest."
+	desc = "A robust backpack issued to Trans-Solar Federation's finest."
 	icon = 'modular_bandastation/objects/icons/obj/storage/backpack.dmi'
 	worn_icon = 'modular_bandastation/objects/icons/mob/clothing/back.dmi'
 	lefthand_file = 'modular_bandastation/objects/icons/mob/inhands/backpack_lefthand.dmi'
@@ -10,7 +10,7 @@
 
 /obj/item/storage/backpack/satchel/blueshield
 	name = "blueshield satchel"
-	desc = "A robust satchel issued to Nanotrasen's finest."
+	desc = "A robust satchel issued to Trans-Solar Federation's finest."
 	icon = 'modular_bandastation/objects/icons/obj/storage/backpack.dmi'
 	worn_icon = 'modular_bandastation/objects/icons/mob/clothing/back.dmi'
 	lefthand_file = 'modular_bandastation/objects/icons/mob/inhands/backpack_lefthand.dmi'
@@ -20,7 +20,7 @@
 
 /obj/item/storage/backpack/duffelbag/blueshield
 	name = "blueshield duffelbag"
-	desc = "A robust duffelbag issued to Nanotrasen's finest."
+	desc = "A robust duffelbag issued to Trans-Solar Federation's finest."
 	icon = 'modular_bandastation/objects/icons/obj/storage/backpack.dmi'
 	worn_icon = 'modular_bandastation/objects/icons/mob/clothing/back.dmi'
 	lefthand_file = 'modular_bandastation/objects/icons/mob/inhands/backpack_lefthand.dmi'

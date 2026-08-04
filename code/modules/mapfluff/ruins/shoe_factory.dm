@@ -82,7 +82,7 @@
 		sell these. I don't care how much the profit margin is. Stop asking.)</i><br>
 		<hr>
 		<i>This notice is the property of Space OSHA. Removal or defacement of this
-		notice is punishable under Nanotrasen Workplace Safety Code § 4.77.2</i>
+		notice is punishable under Trans-Solar Federation Workplace Safety Code § 4.77.2</i>
 	"}
 
 /obj/item/paper/fluff/shoe_factory_closure

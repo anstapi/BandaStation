@@ -87,4 +87,4 @@
 /datum/export/lavaland/megafauna/total_printout(datum/export_report/ex, notes = TRUE) //in the unlikely case a miner feels like selling megafauna loot
 	. = ..()
 	if(. && notes)
-		. += " On behalf of the Nanotrasen RnD division: Thank you for your hard work."
+		. += " On behalf of the Trans-Solar Federation RnD division: Thank you for your hard work."

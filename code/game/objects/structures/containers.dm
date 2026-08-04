@@ -35,8 +35,8 @@
 	icon_state = "defaced"
 
 /obj/structure/shipping_container/deforest
-	name = "\improper Nanotrasen-DeForest shipping container"
-	desc = "A standard-measure shipping container for bulk transport of goods. This one is from Nanotrasen-DeForest, and so is probably carrying medical supplies."
+	name = "\improper Trans-Solar Federation-DeForest shipping container"
+	desc = "A standard-measure shipping container for bulk transport of goods. This one is from Trans-Solar Federation-DeForest, and so is probably carrying medical supplies."
 	icon_state = "deforest"
 
 /obj/structure/shipping_container/great_northern
@@ -69,13 +69,13 @@
 	icon_state = "nakamura"
 
 /obj/structure/shipping_container/nanotrasen
-	name = "\improper Nanotrasen shipping container"
-	desc = "A standard-measure shipping container for bulk transport of goods. This one prominently features Nanotrasen's logo, and so presumably could be carrying anything."
+	name = "\improper Trans-Solar Federation shipping container"
+	desc = "A standard-measure shipping container for bulk transport of goods. This one prominently features Trans-Solar Federation's logo, and so presumably could be carrying anything."
 	icon_state = "nanotrasen"
 
 /obj/structure/shipping_container/ntfid
-	name = "\improper Nanotrasen Futures and Innovation shipping container"
-	desc = "A standard-measure shipping container for bulk transport of goods. This one is from NTFID: Nanotrasen's research and development subdivision."
+	name = "\improper Trans-Solar Federation Futures and Innovation shipping container"
+	desc = "A standard-measure shipping container for bulk transport of goods. This one is from NTFID: Trans-Solar Federation's research and development subdivision."
 	icon_state = "ntfid"
 
 /obj/structure/shipping_container/ntfid/defaced
@@ -83,16 +83,16 @@
 	icon_state = "ntfid_defaced"
 
 /obj/structure/shipping_container/nthi
-	name = "\improper Nanotrasen Heavy Industries shipping container"
-	desc = "A standard-measure shipping container for bulk transport of common metals and minerals. This one is from NTHI: Nanotrasen's mining and refining subdivision."
+	name = "\improper Trans-Solar Federation Heavy Industries shipping container"
+	desc = "A standard-measure shipping container for bulk transport of common metals and minerals. This one is from NTHI: Trans-Solar Federation's mining and refining subdivision."
 	icon_state = "nthi"
 
 /obj/structure/shipping_container/nthi/minor
-	desc = "A standard-measure shipping container for bulk transport of rare metals and minerals. This one is from NTHI: Nanotrasen's mining and refining subdivision."
+	desc = "A standard-measure shipping container for bulk transport of rare metals and minerals. This one is from NTHI: Trans-Solar Federation's mining and refining subdivision."
 	icon_state = "nthi_minor"
 
 /obj/structure/shipping_container/nthi/precious
-	desc = "A standard-measure shipping container for bulk transport of precious metals and minerals. This one is from NTHI: Nanotrasen's mining and refining subdivision."
+	desc = "A standard-measure shipping container for bulk transport of precious metals and minerals. This one is from NTHI: Trans-Solar Federation's mining and refining subdivision."
 	icon_state = "nthi_precious"
 
 /obj/structure/shipping_container/orange
@@ -186,8 +186,8 @@
 	icon_state = "blank_reefer"
 
 /obj/structure/shipping_container/reefer/deforest
-	name = "\improper Nanotrasen-DeForest reefer shipping container"
-	desc = "A standard-measure reefer shipping container for bulk transport of refrigerated goods. This one is from Nanotrasen-DeForest, and is probably carrying temperature sensitive biological material."
+	name = "\improper Trans-Solar Federation-DeForest reefer shipping container"
+	desc = "A standard-measure reefer shipping container for bulk transport of refrigerated goods. This one is from Trans-Solar Federation-DeForest, and is probably carrying temperature sensitive biological material."
 	icon_state = "deforest_reefer"
 
 /obj/structure/shipping_container/reefer/biosustain
@@ -218,7 +218,7 @@
 
 /obj/structure/shipping_container/gas/nthi
 	name = "\improper NTHI bulk plasma tank"
-	desc = "A standard-measure gas tank for bulk transport of gases. This one is from NTHI, Nanotrasen's mining and refining subdivision, and contains high-grade gaseous plasma from the Spinward Sector."
+	desc = "A standard-measure gas tank for bulk transport of gases. This one is from NTHI, Trans-Solar Federation's mining and refining subdivision, and contains high-grade gaseous plasma from the Spinward Sector."
 	icon_state = "nthi_gas_plasma"
 
 /obj/structure/shipping_container/gas/exagon

@@ -2,6 +2,7 @@
 	name = "Lawyer Formal"
 	jobtype = /datum/job/lawyer
 
+	id = /obj/item/card/id/advanced/tsf
 	id_trim = /datum/id_trim/job/lawyer
 	uniform = /obj/item/clothing/under/costume/buttondown/slacks/service
 	suit = /obj/item/clothing/suit/toggle/lawyer/black

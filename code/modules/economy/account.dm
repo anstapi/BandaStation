@@ -112,7 +112,7 @@
 				SSeconomy.bank_accounts_by_id -= "[account_id]"
 				SSeconomy.bank_accounts_by_job[account_job.type] -= src
 		if(NAMEOF(src, account_balance))
-			add_log_to_history(var_value - old_balance, "Nanotrasen: Moderator Action")
+			add_log_to_history(var_value - old_balance, "Trans-Solar Federation: Moderator Action")
 
 /**
  * Sets the bank_account to behave as though a CRAB-17 event is happening.

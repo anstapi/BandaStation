@@ -7,7 +7,7 @@
 	layer = MID_TURF_LAYER // Above other decals
 
 /obj/effect/decal/nt_logo
-	name = "Nanotrasen logo"
+	name = "Trans-Solar Federation logo"
 	icon = 'modular_bandastation/objects/icons/obj/effects/logos.dmi'
 	icon_state = "ntlogo_sec"
 	alpha = 180

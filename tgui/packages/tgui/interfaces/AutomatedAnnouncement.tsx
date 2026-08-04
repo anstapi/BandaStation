@@ -57,7 +57,7 @@ export const AutomatedAnnouncement = (props) => {
   };
 
   const errorMessage = !config_entries.length
-    ? 'No configurable options detected! Please report this to Nanotrasen.'
+    ? 'No configurable options detected! Please report this to Trans-Solar Federation.'
     : 'No match. Refine your search.';
 
   const sorted = sortBy(

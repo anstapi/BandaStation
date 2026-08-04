@@ -74,7 +74,7 @@ MAPPING_DIRECTIONAL_HELPERS(/obj/structure/sign/xenobio_guide, 32)
 	Please be aware that riding the tram can cause a variety of injuries, including but not limited to: slips, trips, and falls; collisions with other passengers or objects; strains, sprains, and other musculoskeletal injuries; \
 	cuts, bruises, and lacerations; and more severe injuries such as head trauma, spinal cord injuries, and even death. These injuries can be caused by a variety of factors, including the movements of the tram, the behaviour \
 	of other passengers, and unforeseen circumstances such as foul play or mechanical issues.<br><br>\
-	By entering the tram, guideway, or crossings you agree Nanotrasen is not liable for any injuries, damages, or losses that may occur. If you do not agree to these terms, please do not use the tram.<br>"
+	By entering the tram, guideway, or crossings you agree Trans-Solar Federation is not liable for any injuries, damages, or losses that may occur. If you do not agree to these terms, please do not use the tram.<br>"
 
 /obj/structure/sign/tram_plate/ui_interact(mob/user, datum/tgui/ui)
 	ui = SStgui.try_update_ui(user, src, ui)
@@ -111,16 +111,16 @@ MAPPING_DIRECTIONAL_HELPERS(/obj/structure/sign/xenobio_guide, 32)
 MAPPING_DIRECTIONAL_HELPERS(/obj/structure/sign/tram_plate, 32)
 
 /obj/structure/sign/nanotrasen
-	name = "\improper Nanotrasen logo sign"
-	sign_change_name = "Corporate Logo - Nanotrasen"
-	desc = "A sign with the Nanotrasen logo on it. Glory to Nanotrasen!"
+	name = "\improper Trans-Solar Federation logo sign"
+	sign_change_name = "Corporate Logo - Trans-Solar Federation"
+	desc = "A sign with the Trans-Solar Federation logo on it. Glory to Trans-Solar Federation!"
 	icon_state = "nanotrasen"
 	is_editable = TRUE
 
 MAPPING_DIRECTIONAL_HELPERS(/obj/structure/sign/nanotrasen, 32)
 
 /obj/structure/sign/logo
-	name = "\improper Nanotrasen logo sign"
-	desc = "The Nanotrasen corporate logo."
+	name = "\improper Trans-Solar Federation logo sign"
+	desc = "The Trans-Solar Federation corporate logo."
 	icon_state = "nanotrasen_sign1"
 	buildable_sign = FALSE

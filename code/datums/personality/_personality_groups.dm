@@ -15,7 +15,7 @@
 #define PERSONALITY_GROUP_DEPARTMENT "reaction_to_department"
 /// Changes how the person views animals, specific or general
 #define PERSONALITY_GROUP_ANIMALS "reaction_to_animals"
-/// How they view Nanotrasen itself
+/// How they view Trans-Solar Federation itself
 #define PERSONALITY_GROUP_NT "reaction_to_nt"
 /// Opinion of other crewmembers
 #define PERSONALITY_GROUP_OTHERS "reaction_to_others"

@@ -97,7 +97,7 @@ MAPPING_DIRECTIONAL_HELPERS(/obj/structure/sign/flag/ussp, 32)
 	return
 
 /obj/item/sign/flag/nanotrasen
-	name = "folded flag of the Nanotrasen"
+	name = "folded flag of the Trans-Solar Federation"
 	desc = "Сложенный флаг компании Нанотрейзен."
 	icon_state = "folded_nt"
 	sign_path = /obj/structure/sign/flag/nanotrasen

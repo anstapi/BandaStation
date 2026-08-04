@@ -1,4 +1,4 @@
-/// Returns UTC timestamp with the specifified format, with optionally deciseconds or optional IC time (year offset), AKA Nanotrasen Standard Time (NST)
+/// Returns UTC timestamp with the specifified format, with optionally deciseconds or optional IC time (year offset), AKA Trans-Solar Federation Standard Time (NST)
 /proc/server_timestamp(format = "hh:mm:ss", show_ds, ic_time, twelve_hour_clock, timezone = TIMEZONE_UTC)
 	var/time_string = twelve_hour_clock ? time_to_twelve_hour(format, world.timeofday, timezone) : time2text(world.timeofday, format, timezone)
 	if(ic_time && findtext(format, "YYYY")) //if we have a year, replace the year

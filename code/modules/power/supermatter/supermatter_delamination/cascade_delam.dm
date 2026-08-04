@@ -89,7 +89,7 @@
 
 	priority_announce("Внимание: Сканирование аномалий дальнего действия регистрирует отклонение от нормы в количестве гармонического потока, исходящего от \
 	объекта в пределах [station_name()], может произойти резонансный коллапс.",
-	"Nanotrasen Star Observation Association", 'sound/announcer/alarm/airraid.ogg')
+	"Trans-Solar Federation Star Observation Association", 'sound/announcer/alarm/airraid.ogg')
 	announcement_triggered = TRUE
 	return TRUE
 

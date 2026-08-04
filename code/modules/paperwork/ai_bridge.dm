@@ -136,7 +136,7 @@ GLOBAL_DATUM_INIT(global_ai_bridge, /datum/ai_bridge, new)
 	var/instruction = ""
 	switch(mode)
 		if("approve")
-			instruction = "DECISION: APPROVE. State that the request aligns with Nanotrasen Strategic Interests."
+			instruction = "DECISION: APPROVE. State that the request aligns with Trans-Solar Federation Strategic Interests."
 		if("deny")
 			instruction = "DECISION: DENY. Invent a bureaucratic excuse (e.g., Missing Form 27B-6, Budget Freeze, Low Social Credit)."
 		if("custom")

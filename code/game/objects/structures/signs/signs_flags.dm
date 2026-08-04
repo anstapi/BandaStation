@@ -5,7 +5,7 @@
 	icon_state = "flag_coder"
 
 /obj/structure/sign/flag/nanotrasen
-	name = "flag of Nanotrasen"
+	name = "flag of Trans-Solar Federation"
 	desc = "Официальный корпоративный флаг Нанотрейзен. В основном используется для пропаганды, или для обозначения границ на новых территориях."
 	icon_state = "flag_nt"
 

@@ -7,7 +7,7 @@
 	icon = 'icons/obj/machines/sleeper.dmi'
 	icon_state = "sleeper"
 	mob_species = /datum/species/human
-	you_are_text = "You are a crewman working for Nanotrasen, stationed onboard a state of the art research station."
+	you_are_text = "You are a crewman working for Trans-Solar Federation, stationed onboard a state of the art research station."
 	flavour_text = "You vaguely recall rushing into a cryogenics pod due to an oncoming radiation storm. \
 	The last thing you remember is the station's Artificial Program telling you that you would only be asleep for eight hours. As you open \
 	your eyes, everything seems rusted and broken, a dark feeling swells in your gut as you climb out of your pod."
@@ -36,7 +36,7 @@
 /obj/effect/mob_spawn/ghost_role/human/oldstation/sec
 	desc = "A humming cryo pod. You can barely recognise a security uniform underneath the built up ice. The machine is attempting to wake up its occupant."
 	prompt_name = "a security officer"
-	you_are_text = "You are a security officer working for Nanotrasen, stationed onboard a state of the art research station."
+	you_are_text = "You are a security officer working for Trans-Solar Federation, stationed onboard a state of the art research station."
 	outfit = /datum/outfit/oldsec
 
 /datum/outfit/oldsec
@@ -50,7 +50,7 @@
 /obj/effect/mob_spawn/ghost_role/human/oldstation/eng
 	desc = "A humming cryo pod. You can barely recognise an engineering uniform underneath the built up ice. The machine is attempting to wake up its occupant."
 	prompt_name = "an engineer"
-	you_are_text = "You are an engineer working for Nanotrasen, stationed onboard a state of the art research station."
+	you_are_text = "You are an engineer working for Trans-Solar Federation, stationed onboard a state of the art research station."
 	outfit = /datum/outfit/oldeng
 
 /datum/outfit/oldeng
@@ -71,7 +71,7 @@
 /obj/effect/mob_spawn/ghost_role/human/oldstation/sci
 	desc = "A humming cryo pod. You can barely recognise a science uniform underneath the built up ice. The machine is attempting to wake up its occupant."
 	prompt_name = "a scientist"
-	you_are_text = "You are a scientist working for Nanotrasen, stationed onboard a state of the art research station."
+	you_are_text = "You are a scientist working for Trans-Solar Federation, stationed onboard a state of the art research station."
 	outfit = /datum/outfit/oldsci
 
 /datum/outfit/oldsci
@@ -85,7 +85,7 @@
 
 /obj/effect/mob_spawn/ghost_role/human/lavaland_syndicate/comms/space
 	you_are_text = "You are a syndicate agent, assigned to a small listening post station situated near your hated enemy's top secret research facility: Space Station 13."
-	flavour_text = "Monitor enemy activity as best you can, and try to keep a low profile. Use the communication equipment to provide support to any field agents, and sow disinformation to throw Nanotrasen off your trail. Do not let the base fall into enemy hands!"
+	flavour_text = "Monitor enemy activity as best you can, and try to keep a low profile. Use the communication equipment to provide support to any field agents, and sow disinformation to throw Trans-Solar Federation off your trail. Do not let the base fall into enemy hands!"
 	important_text = "DO NOT abandon the base."
 
 /obj/effect/mob_spawn/ghost_role/human/lavaland_syndicate/comms/space/Initialize(mapload)

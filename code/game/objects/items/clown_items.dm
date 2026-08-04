@@ -68,7 +68,7 @@
 	return list(/datum/reagent/consumable/liquidgibs = 9, /datum/reagent/lye = 9)
 
 /obj/item/soap/nanotrasen
-	desc = "A heavy duty bar of Nanotrasen brand soap. Smells of plasma."
+	desc = "A heavy duty bar of Trans-Solar Federation brand soap. Smells of plasma."
 	icon_state = "soapnt"
 	inhand_icon_state = "soapnt"
 	worn_icon_state = "soapnt"

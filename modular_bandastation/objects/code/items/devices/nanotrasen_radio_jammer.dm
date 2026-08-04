@@ -1,5 +1,5 @@
 /obj/item/jammer/nt
-	name = "Nanotrasen radio jammer"
+	name = "Trans-Solar Federation radio jammer"
 	desc = "Корпоративный генератор помех Нанотрейзен. Компактное устройство, способное эффективно блокировать широкий спектр радиочастот."
 	icon = 'modular_bandastation/objects/icons/obj/items/nt_radio_jammer.dmi'
 	icon_state = "jammer_nt"

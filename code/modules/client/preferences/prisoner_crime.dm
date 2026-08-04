@@ -72,7 +72,7 @@ GLOBAL_LIST_INIT(prisoner_crimes, init_prisoner_crimes())
 
 /datum/prisoner_crime/espionage
 	name = "Corporate Espionage"
-	desc = "Conducted espionage against Nanotrasen for commercial purposes."
+	desc = "Conducted espionage against Trans-Solar Federation for commercial purposes."
 	tattoos = 1
 
 /datum/prisoner_crime/counterfeiting
@@ -82,12 +82,12 @@ GLOBAL_LIST_INIT(prisoner_crimes, init_prisoner_crimes())
 
 /datum/prisoner_crime/enemy_of_the_corp
 	name = "Enemy of the Corporation"
-	desc = "Acted as, or knowingly aided, an enemy of Nanotrasen."
+	desc = "Acted as, or knowingly aided, an enemy of Trans-Solar Federation."
 	tattoos = 1
 
 /datum/prisoner_crime/grand_sabo
 	name = "Grand Sabotage"
-	desc = "Engaged in malicious destructive actions, seriously threatening Nanotrasen employees and or infrastructure."
+	desc = "Engaged in malicious destructive actions, seriously threatening Trans-Solar Federation employees and or infrastructure."
 	tattoos = 2
 
 /datum/prisoner_crime/grand_theft

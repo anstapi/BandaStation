@@ -14,4 +14,4 @@
 	name = "Gamma Armory Shuttle"
 
 /area/shuttle/assault_pod/nanotrasen
-	name = "Nanotrasen Assault Pod"
+	name = "Trans-Solar Federation Assault Pod"

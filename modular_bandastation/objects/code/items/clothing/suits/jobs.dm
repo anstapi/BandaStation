@@ -1,7 +1,7 @@
-// Nanotrasen Representative
+// Trans-Solar Federation Representative
 /obj/item/clothing/suit/toggle/nanotrasen_representative
-	name = "Nanotrasen Representative jacket"
-	desc = "A fancy black jacket; standard issue to Nanotrasen Representatives."
+	name = "Trans-Solar Federation Representative jacket"
+	desc = "A fancy black jacket; standard issue to Trans-Solar Federation Representatives."
 	icon = 'modular_bandastation/objects/icons/obj/clothing/suits/jacket.dmi'
 	worn_icon = 'modular_bandastation/objects/icons/mob/clothing/suits/jacket.dmi'
 	icon_state = "nanotrasen_representative"

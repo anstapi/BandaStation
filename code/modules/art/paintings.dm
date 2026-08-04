@@ -304,7 +304,7 @@ GLOBAL_LIST_INIT(canvas_dimensions, init_canvas_dimensions())
 	painting_metadata.credit_value = offer_amount
 	last_patron = WEAKREF(user.mind)
 
-	to_chat(user, span_notice("Nanotrasen Trust Foundation thanks you for your contribution. You're now an official patron of this painting."))
+	to_chat(user, span_notice("Trans-Solar Federation Trust Foundation thanks you for your contribution. You're now an official patron of this painting."))
 	if(HAS_PERSONALITY(user, /datum/personality/creative))
 		user.add_mood_event("creative_patronage", /datum/mood_event/creative_patronage)
 	if(HAS_PERSONALITY(user, /datum/personality/unimaginative))

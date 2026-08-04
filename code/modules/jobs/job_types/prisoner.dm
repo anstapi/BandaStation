@@ -2,9 +2,9 @@
 	title = JOB_PRISONER
 	description = "Окажитесь заточенным в пермабриге."
 	faction = FACTION_STATION
-	total_positions = 0
+	total_positions = 4
 	spawn_positions = 4
-	supervisors = "Службой Безопасности"
+	supervisors = "Администрацией города"
 	exp_granted_type = EXP_TYPE_CREW
 	paycheck = PAYCHECK_LOWER
 	config_tag = "PRISONER"
@@ -13,7 +13,10 @@
 	plasmaman_outfit = /datum/outfit/plasmaman/prisoner
 
 	display_order = JOB_DISPLAY_ORDER_PRISONER
-	department_for_prefs = /datum/job_department/security
+	department_for_prefs = /datum/job_department/assistant
+	departments_list = list(
+		/datum/job_department/assistant,
+		)
 
 	exclusive_mail_goodies = TRUE
 	mail_goodies = list (

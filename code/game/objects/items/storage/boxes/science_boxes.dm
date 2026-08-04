@@ -27,7 +27,7 @@
 /obj/item/storage/box/disks
 	name = "floppy disk box"
 	illustration = "disk_kit"
-	desc = "A set of 8 Nanotrasen-approved floppy disks in individual packaging."
+	desc = "A set of 8 Trans-Solar Federation-approved floppy disks in individual packaging."
 
 /obj/item/storage/box/disks/PopulateContents()
 	for(var/i in 1 to 8)

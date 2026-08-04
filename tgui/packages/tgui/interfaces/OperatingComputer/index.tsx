@@ -81,7 +81,7 @@ export const OperatingComputer = () => {
           </Stack.Item>
           <Stack.Item textAlign="right" color="label" fontSize="0.7em">
             <Section>
-              DefOS 1.0 &copy; Корпорация «Nanotrasen-Deforest». Все права
+              DefOS 1.0 &copy; Корпорация «Trans-Solar Federation-Deforest». Все права
               защищены.
             </Section>
           </Stack.Item>

@@ -36,7 +36,7 @@
 	id = "asteroid4"
 	suffix = "asteroid4.dmm"
 	name = "Space-Ruin Asteroid 4"
-	description = "Nanotrasen Escape Pods have a 100%* success rate, and a 99%* customer satisfaction rate. \
+	description = "Trans-Solar Federation Escape Pods have a 100%* success rate, and a 99%* customer satisfaction rate. \
 	*Please note that these statistics are taken from pods that have successfully docked with a recovery vessel."
 
 /datum/map_template/ruin/space/asteroid5
@@ -111,7 +111,7 @@
 	id = "derelict6"
 	suffix = "derelict6.dmm"
 	name = "Space-Ruin Derelict 6"
-	description = "The hush-hush of Nanotrasen when it comes to stations seemingly vanishing off the radar is an interesting topic, theories of nuclear destruction float about while Nanotrasen \
+	description = "The hush-hush of Trans-Solar Federation when it comes to stations seemingly vanishing off the radar is an interesting topic, theories of nuclear destruction float about while Trans-Solar Federation \
 	flat-out denies said stations ever existing."
 
 /datum/map_template/ruin/space/derelict7
@@ -331,7 +331,7 @@
 	id = "old_infiltrator"
 	suffix = "old_infiltrator.dmm"
 	name = "Space-Ruin Abandoned Infiltrator"
-	description = "Only one in five Gorlex Marauder strike forces return from their regular raids into Nanotrasen space. \
+	description = "Only one in five Gorlex Marauder strike forces return from their regular raids into Trans-Solar Federation space. \
 		For the other four... well, their ship doesn't just disappear when their target evacuates."
 
 /datum/map_template/ruin/space/hellfactory
@@ -470,7 +470,7 @@
 	id = "Space_phonebooth"
 	suffix = "phonebooth.dmm"
 	name = "Space-Ruin Phonebooth"
-	description = "A venture by Nanotrasen to help popularize the use of holopads."
+	description = "A venture by Trans-Solar Federation to help popularize the use of holopads."
 
 /datum/map_template/ruin/space/the_outlet
 	id = "the_outlet"
@@ -531,8 +531,8 @@
 /datum/map_template/ruin/space/commsbuoy_nt
 	id = "commsbuoy_nt"
 	suffix = "commsbuoy_nt.dmm"
-	name = "Space-Ruin Nanotrasen Model-7 Communications Buoy"
-	description = "One of Nanotrasen's highly advanced Communication Buoys. Besides acting as a broadcaster, receiver and relay for interstellar \
+	name = "Space-Ruin Trans-Solar Federation Model-7 Communications Buoy"
+	description = "One of Trans-Solar Federation's highly advanced Communication Buoys. Besides acting as a broadcaster, receiver and relay for interstellar \
 	communications, the satellite also includes a Local-Network array and two multi-function satellite dishes, providing the local sector with \
 	connectivity - as long as you have your Employee ID handy. Though, this one has been reported to have some recent malfunctions."
 

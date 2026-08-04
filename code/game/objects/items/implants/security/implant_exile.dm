@@ -10,13 +10,13 @@
 	custom_materials = list(/datum/material/iron = HALF_SHEET_MATERIAL_AMOUNT, /datum/material/titanium = SMALL_MATERIAL_AMOUNT * 3)
 
 	implant_info = "Automatically activates upon implantation. \
-		Prevents returning through Nanotrasen gateway systems, and prevents usage of Nanotrasen mining shuttle controls."
+		Prevents returning through Trans-Solar Federation gateway systems, and prevents usage of Trans-Solar Federation mining shuttle controls."
 
-	implant_lore = "The Nanotrasen Employee Exile Implant is an RFID transponder \
-		designed to facilitate one-way traversal through Nanotrasen Gateway Project gateways. \
+	implant_lore = "The Trans-Solar Federation Employee Exile Implant is an RFID transponder \
+		designed to facilitate one-way traversal through Trans-Solar Federation Gateway Project gateways. \
 		It allows implantees to enter, but not exit, gateway locales, automatically rejecting traversal attempts if an attempt is made, \
 		effectively exiling them to the gateway's locale. \
-		Alongside this, the exile implant interfaces with Nanotrasen mining shuttle control systems, automatically locking \
+		Alongside this, the exile implant interfaces with Trans-Solar Federation mining shuttle control systems, automatically locking \
 		themselves down if implantees attempt to use them."
 
 ///Used to help the staff of the space hotel resist the urge to use the space hotel's incredibly alluring roundstart teleporter to ignore their flavor/greeting text and come to the station.
@@ -26,14 +26,14 @@
 		Used by certain slavers, or particularly strict employers, to keep their slaves or employees from using teleporters to escape their grasp."
 
 	implant_info = "Automatically activates upon implantation. \
-		Mimics an exile implant, preventing returning from a gateway locale and locking down Nanotrasen mining shuttles, \
+		Mimics an exile implant, preventing returning from a gateway locale and locking down Trans-Solar Federation mining shuttles, \
 		while also preventing teleportation."
 
 	implant_lore = "The Sunken Anchor anti-teleportation implant is a subdermal anti-teleportation device that prevents usage of \
 		conventional and unconventional methods of teleporting, in order to prevent employees \
 		or slaves from using unauthorized means of teleportation to abandon their posts. \
-		In addition, the Sunken Anchor mimics the signature of Nanotrasen's exile implant, \
-		preventing returning through Nanotrasen Gateway Project gateways and locking implantees out of using Nanotrasen's mining shuttles. \
+		In addition, the Sunken Anchor mimics the signature of Trans-Solar Federation's exile implant, \
+		preventing returning through Trans-Solar Federation Gateway Project gateways and locking implantees out of using Trans-Solar Federation's mining shuttles. \
 		The ethics behind having this implant are questionable. The efficacy of the implant itself is not."
 
 /obj/item/implant/exile/noteleport/implant(mob/living/target, mob/user, silent = FALSE, force = FALSE)

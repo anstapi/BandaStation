@@ -7,7 +7,7 @@
  */
 /datum/action/cooldown/spell/jaunt/space_crawl
 	name = "Космическая фаза"
-	desc = "Позволяет вам появляться и исчезать, находясь в космосе или зоне с низким давлением."
+	desc = "Позволяет вам появляться и исчезать, находясь на Марсе или в зоне с низким давлением."
 	background_icon_state = "bg_heretic"
 	overlay_icon_state = "bg_heretic_border"
 
@@ -41,7 +41,7 @@
 	if(is_valid_turf())
 		return TRUE
 	if(feedback)
-		to_chat(owner, span_warning("Вы должны быть в космосе или зоне с низким давлением!"))
+		to_chat(owner, span_warning("Вы должны быть на Марсе или в зоне с низким давлением!"))
 	return FALSE
 
 

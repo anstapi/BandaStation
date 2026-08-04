@@ -89,7 +89,7 @@
 /datum/personality/erudite
 	savefile_key = "erudite"
 	name = "Эрудированный"
-	desc = "Знание — сила. Особенно далеко в космосе."
+	desc = "Знание — сила. Особенно далеко на Марсе."
 	pos_gameplay_desc = "Любит читать книги"
 	groups = list(PERSONALITY_GROUP_READING)
 

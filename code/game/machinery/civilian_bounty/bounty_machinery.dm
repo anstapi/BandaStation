@@ -400,7 +400,7 @@
 	paper.name = "paper - Bounties"
 
 	var/list/printout_text = list()
-	printout_text += "<h2>Nanotrasen Cargo Bounties</h2></br>"
+	printout_text += "<h2>Trans-Solar Federation Cargo Bounties</h2></br>"
 
 	for(var/datum/bounty/current_bounty in GLOB.shared_crew_bounties)
 		if(current_bounty.claimed)

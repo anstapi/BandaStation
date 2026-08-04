@@ -61,6 +61,7 @@
 	name = "Warden"
 	jobtype = /datum/job/warden
 
+	id = /obj/item/card/id/advanced/tsf
 	id_trim = /datum/id_trim/job/warden
 	uniform = /obj/item/clothing/under/rank/security/warden
 	suit = /obj/item/clothing/suit/armor/vest/warden/alt

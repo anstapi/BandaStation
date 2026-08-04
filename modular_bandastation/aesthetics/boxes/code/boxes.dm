@@ -285,7 +285,7 @@
 /obj/item/storage/box/syndie_kit
 	icon_state = "syndie"
 
-// MARK: Nanotrasen
+// MARK: Trans-Solar Federation
 /obj/item/storage/box/cyber_implants
 	icon_state = "nanotrasen"
 	illustration = "implant_cyber"

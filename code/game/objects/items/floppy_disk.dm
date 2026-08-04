@@ -40,7 +40,7 @@
 
 /obj/item/disk
 	name = "floppy disk"
-	desc = "A generic floppy disk. No way Nanotrasen still uses those, right?"
+	desc = "A generic floppy disk. No way Trans-Solar Federation still uses those, right?"
 	icon = 'icons/obj/devices/floppy_disks.dmi'
 	icon_state = "datadisk3"
 	w_class = WEIGHT_CLASS_TINY

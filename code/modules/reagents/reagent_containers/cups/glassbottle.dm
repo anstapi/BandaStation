@@ -439,7 +439,7 @@
 		LAZYSET(located_wine.data, "vintage", wine_info)
 
 /obj/item/reagent_containers/cup/glass/bottle/wine/proc/generate_vintage()
-	return "[CURRENT_STATION_YEAR] Nanotrasen Light Red"
+	return "[CURRENT_STATION_YEAR] Trans-Solar Federation Light Red"
 
 /obj/item/reagent_containers/cup/glass/bottle/wine/unlabeled
 	name = "unlabeled wine bottle"
@@ -460,7 +460,7 @@
 	)
 	var/origin = pick(
 		"Local",
-		"Nanotrasen",
+		"Trans-Solar Federation",
 		"Syndicate",
 	)
 	return "[year] [origin] [type]"
@@ -489,7 +489,7 @@
 		if("A&A")
 			fullname = "Ash and Asher"
 		if("Generic")
-			fullname = "Nanotrasen Cheap Imitations"
+			fullname = "Trans-Solar Federation Cheap Imitations"
 	var/removals = list(
 		"\[REDACTED\]",
 		"\[EXPLETIVE DELETED\]",
@@ -874,7 +874,7 @@
 
 /obj/item/reagent_containers/cup/glass/bottle/herbal_liqueur
 	name = "Bellarmine D.O.P Herbal Liqueur"
-	desc = "An almost millenia old herbal liqueur made from a secret recipe passed down over generations of monks. It's not great to know that the herbs and spices used in this are a better-kept secret than the codes to Nanotrasen's nuclear arsenal."
+	desc = "An almost millenia old herbal liqueur made from a secret recipe passed down over generations of monks. It's not great to know that the herbs and spices used in this are a better-kept secret than the codes to Trans-Solar Federation's nuclear arsenal."
 	icon_state = "herbal_liqueur_bottle"
 	list_reagents = list(/datum/reagent/consumable/ethanol/herbal_liqueur = 100)
 	drink_type = ALCOHOL

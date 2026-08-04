@@ -246,8 +246,8 @@
 	desc = "Баннер с логотипом синего божества."
 
 /obj/item/storage/backpack/bannerpack
-	name = "\improper Nanotrasen banner backpack"
-	desc = "It's a backpack with lots of extra room.  A banner with Nanotrasen's logo is attached, that can't be removed."
+	name = "\improper Trans-Solar Federation banner backpack"
+	desc = "It's a backpack with lots of extra room.  A banner with Trans-Solar Federation's logo is attached, that can't be removed."
 	icon_state = "backpack-banner"
 
 /obj/item/storage/backpack/bannerpack/Initialize(mapload)

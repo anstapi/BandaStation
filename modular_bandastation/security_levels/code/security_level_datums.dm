@@ -76,7 +76,7 @@
 	// Repurposes AI to serve CentCom
 	var/notice_sound = sound('modular_bandastation/aesthetics_sounds/sound/epsilon_laws.ogg')
 	var/list/ais = active_ais()
-	var/list/info_update = list("[span_boldwarning("Центральное Командование установило новый свод законов. Обеспечьте их соблюдение.")]\n")
+	var/list/info_update = list("[span_boldwarning("Командование ТСФ установило новый свод законов. Обеспечьте их соблюдение.")]\n")
 	for(var/mob/living/silicon/ai/AI in ais)
 		AI.laws = new /datum/ai_laws/epsilon()
 		AI.laws.set_zeroth_law("Не причиняйте вреда членам Центрального Командования и назначенной оперативной группе. Вы должны подчиняться приказам, отданным вам членами Центрального Командования.")

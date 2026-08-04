@@ -170,7 +170,7 @@
 	name = "E-1 Earthcracker"
 	desc = "A rusty automated pilebunker can be used to create a weakpoint in flooring,\
 		which can be triggered afterwards by a sufficiently strong enough explosion.\
-		You're pretty sure the mining company that used to make these got bought by Nanotrasen ages ago."
+		You're pretty sure the mining company that used to make these got bought by Trans-Solar Federation ages ago."
 	weakpoint_type = /obj/effect/weakpoint
 
 #undef EARTHCRACKER_READY

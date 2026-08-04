@@ -75,7 +75,7 @@
 	implant_info = "Automatically activates upon implantation. Provides radio transmission and reception capabilities."
 
 	implant_lore = "The Internal Radio Implant, a long open-sourced design manufactured by \
-		just about everyone from Nanotrasen to Cybersun, is a subdermal two-way radio system designed \
+		just about everyone from Trans-Solar Federation to Cybersun, is a subdermal two-way radio system designed \
 		to interface with telecommunications networks. It's mainly useful for those who expect either \
 		equipment loss or lack the ability to use standalone radio equipment easily."
 

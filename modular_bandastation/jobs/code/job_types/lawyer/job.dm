@@ -1,5 +1,5 @@
 /datum/job/lawyer
-	supervisors = "Магистрат"
+	supervisors = "Главный судья"
 	display_order = JOB_DISPLAY_ORDER_LAWYER
 	departments_list = list(
 		/datum/job_department/justice,

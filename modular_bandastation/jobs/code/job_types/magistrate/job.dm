@@ -6,7 +6,7 @@
 	faction = FACTION_STATION
 	total_positions = 1
 	spawn_positions = 1
-	supervisors = "Центральное командование"
+	supervisors = "Командование ТСФ"
 	minimal_player_age = 14
 	exp_requirements = 1500
 	exp_required_type = EXP_TYPE_CREW

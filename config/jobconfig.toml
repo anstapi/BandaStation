@@ -131,8 +131,8 @@
 "# Playtime Requirements" = 0
 "# Required Account Age" = 0
 "# Required Character Age" = 0
-"# Spawn Positions" = 1
-"# Total Positions" = 1
+"Spawn Positions" = 0
+"Total Positions" = 0
 
 [CYBORG]
 "# Playtime Requirements" = 120
@@ -210,15 +210,15 @@
 "# Playtime Requirements" = 0
 "# Required Account Age" = 0
 "# Required Character Age" = 0
-"# Spawn Positions" = 2
-"# Total Positions" = 0
+"Spawn Positions" = 4
+"Total Positions" = 4
 
 [PSYCHOLOGIST]
 "# Playtime Requirements" = 0
 "# Required Account Age" = 0
 "# Required Character Age" = 0
-"# Spawn Positions" = 1
-"# Total Positions" = 1
+"Spawn Positions" = 0
+"Total Positions" = 0
 
 [QUARTERMASTER]
 "# Human Authority Whitelist Setting" = "NON_HUMANS_ALLOWED"

@@ -144,7 +144,7 @@
 /datum/job/lawyer
 	staffing_priority = STAFFING_PRIORITY_NEGLIGIBLE
 
-// MARK: Nanotrasen Representation
+// MARK: Trans-Solar Federation Representation
 /datum/job/nanotrasen_representative
 	staffing_priority = STAFFING_PRIORITY_MINOR
 

@@ -26,7 +26,7 @@
 /datum/personality/nt/loyalist
 	savefile_key = "loyalist"
 	name = "Лояльный"
-	desc = "Я верю в станцию и в Центральное Командование до самого конца!"
+	desc = "Я верю в станцию и в Командование ТСФ до самого конца!"
 	pos_gameplay_desc = "Нравятся корпоративные постеры и знаки"
 	mood_event_type = /datum/mood_event/nt_loyalist
 

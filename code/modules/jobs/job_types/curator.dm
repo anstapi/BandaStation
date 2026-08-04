@@ -3,8 +3,8 @@
 	description = "Пишите и читайте книги, вручайте их людям, пополняйте \
 		книжные полки, ведите новостную колонку."
 	faction = FACTION_STATION
-	total_positions = 1
-	spawn_positions = 1
+	total_positions = 0
+	spawn_positions = 0
 	supervisors = JOB_HEAD_OF_PERSONNEL_RU
 	config_tag = "CURATOR"
 	exp_granted_type = EXP_TYPE_CREW
@@ -30,7 +30,7 @@
 
 	family_heirlooms = list(/obj/item/pen/fountain, /obj/item/storage/dice)
 
-	job_flags = STATION_JOB_FLAGS
+	job_flags = JOB_EQUIP_RANK | JOB_CANNOT_OPEN_SLOTS
 
 	voice_of_god_silence_power = 3
 	rpg_title = "Veteran Adventurer"

@@ -302,7 +302,7 @@
 	head = /obj/item/clothing/head/collectable/paper
 
 /obj/effect/mob_spawn/corpse/human/nanotrasensoldier
-	name = "\improper Nanotrasen Private Security Officer"
+	name = "\improper Trans-Solar Federation Private Security Officer"
 	outfit = /datum/outfit/nanotrasensoldiercorpse
 	hairstyle = "Bald"
 	facial_hairstyle = "Shaved"
@@ -321,7 +321,7 @@
 	id_trim = /datum/id_trim/centcom/corpse/private_security/tradepost_officer
 
 /obj/effect/mob_spawn/corpse/human/nanotrasenassaultsoldier
-	name = "\improper Nanotrasen Assault Officer Corpse"
+	name = "\improper Trans-Solar Federation Assault Officer Corpse"
 	outfit = /datum/outfit/nanotrasenassaultsoldiercorpse
 	hairstyle = "Bald"
 	facial_hairstyle = "Shaved"
@@ -340,7 +340,7 @@
 	id_trim = /datum/id_trim/centcom/corpse/assault
 
 /obj/effect/mob_spawn/corpse/human/nanotrasenelitesoldier
-	name = "\improper Nanotrasen Elite Assault Officer Corpse"
+	name = "\improper Trans-Solar Federation Elite Assault Officer Corpse"
 	outfit = /datum/outfit/nanotrasenelitesoldiercorpse
 	hairstyle = "Bald"
 	facial_hairstyle = "Shaved"

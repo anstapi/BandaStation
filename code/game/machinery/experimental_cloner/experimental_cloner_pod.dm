@@ -4,7 +4,7 @@ GLOBAL_VAR_INIT(experimental_cloner_fuckup_chance, 50)
 /// Machine which experimentally clones people you scanned with the experimental cloner scanner
 /obj/machinery/experimental_cloner
 	name = "experimental cloning pod"
-	desc = "An early prototype of the currently-outlawed cloning pods used by Nanotrasen executives. I wonder if it still works?"
+	desc = "An early prototype of the currently-outlawed cloning pods used by Trans-Solar Federation executives. I wonder if it still works?"
 	icon = 'icons/obj/machines/cloning.dmi'
 	icon_state = "pod_0"
 	base_icon_state = "pod"

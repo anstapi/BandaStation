@@ -78,7 +78,7 @@
 	empty = TRUE
 
 /obj/item/stock_parts/power_store/battery/crap
-	name = "\improper Nanotrasen brand rechargeable AA megacell"
+	name = "\improper Trans-Solar Federation brand rechargeable AA megacell"
 	desc = "You can't top the plasma top." //TOTALLY TRADEMARK INFRINGEMENT
 	maxcharge = STANDARD_BATTERY_CHARGE * 0.5
 

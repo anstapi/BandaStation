@@ -43,7 +43,7 @@
 
 /datum/supply_pack/security/forensics
 	name = "Forensics Crate"
-	desc = "Stay hot on the criminal's heels with Nanotrasen's Detective Essentials™. \
+	desc = "Stay hot on the criminal's heels with Trans-Solar Federation's Detective Essentials™. \
 		Contains a forensics scanner, six evidence bags, camera, special board for evidences, tape recorder, stick of chalk, \
 		and of course, a fedora."
 	cost = CARGO_CRATE_VALUE * 2.5
@@ -140,7 +140,7 @@
 /datum/supply_pack/security/justiceinbound
 	name = "Standard Justice Enforcer Crate"
 	desc = "This is it. The Bee's Knees. The Creme of the Crop. The Pick of the Litter. \
-		The best of the best of the best. The Crown Jewel of Nanotrasen. \
+		The best of the best of the best. The Crown Jewel of Trans-Solar Federation. \
 		The Alpha and the Omega of security headwear. Guaranteed to strike fear into the hearts \
 		of each and every criminal aboard the station. Also comes with a security gasmask."
 	cost = CARGO_CRATE_VALUE * 6 //justice comes at a price. An expensive, noisy price.
@@ -242,8 +242,8 @@
 
 /datum/supply_pack/security/armory/laser
 	name = "Type 5 Laser Gun Crate"
-	desc = "Contains three Type 5 laser guns, developed by Nanotrasen. For when the going gets tough, you get going with the \
-		Type 5 Heat Delivery System. As developed by Nanotrasen."
+	desc = "Contains three Type 5 laser guns, developed by Trans-Solar Federation. For when the going gets tough, you get going with the \
+		Type 5 Heat Delivery System. As developed by Trans-Solar Federation."
 	cost = CARGO_CRATE_VALUE * 18 // Original price: 800 New price: 3600
 	contains = list(/obj/item/gun/energy/laser = 3)
 	crate_name = "\improper Type 5 laser crate"
@@ -251,7 +251,7 @@
 
 /datum/supply_pack/security/armory/laser_carbine
 	name = "Type 5/R Laser Carbine Crate"
-	desc = "Contains three Type 5R laser carbines, developed by Nanotrasen. Fires a rapid burst of slightly weaker laser projectiles."
+	desc = "Contains three Type 5R laser carbines, developed by Trans-Solar Federation. Fires a rapid burst of slightly weaker laser projectiles."
 	cost = CARGO_CRATE_VALUE * 27 // Original price: 1800 New price: 5400
 	contains = list(/obj/item/gun/energy/laser/carbine = 3)
 	crate_name = "\improper Type 5R laser carbine crate"
@@ -267,8 +267,8 @@
 
 /datum/supply_pack/security/armory/battle_rifle
 	name = "NT BR-38 Crate"
-	desc = "An experimental energy-based ballistic battle rifle, as developed by Nanotrasen. \
-		Only available to Nanotrasen stations for security purposes. DO NOT RESELL TO OUTSIDE \
+	desc = "An experimental energy-based ballistic battle rifle, as developed by Trans-Solar Federation. \
+		Only available to Trans-Solar Federation stations for security purposes. DO NOT RESELL TO OUTSIDE \
 		COMPANIES. Contains three NT BR-38 rifles and 6 magazines containing .38 Standard."
 	cost = CARGO_CRATE_VALUE * 60 // Original price: 20000 New price: 12000
 	contains = list(
@@ -362,7 +362,7 @@
 /datum/supply_pack/security/armory/swat
 	name = "SWAT Crate"
 	desc = "Contains two fullbody sets of tough, fireproof suits designed in a joint \
-		effort by IS-ERI and Nanotrasen. Each set contains a suit, helmet, mask, combat belt, \
+		effort by IS-ERI and Trans-Solar Federation. Each set contains a suit, helmet, mask, combat belt, \
 		and gorilla gloves."
 	cost = CARGO_CRATE_VALUE * 7
 	contains = list(/obj/item/clothing/head/helmet/swat/nanotrasen = 2,

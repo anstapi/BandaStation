@@ -35,6 +35,7 @@
 	name = "Geneticist"
 	jobtype = /datum/job/geneticist
 
+	id = /obj/item/card/id/advanced/tsf
 	id_trim = /datum/id_trim/job/geneticist
 	uniform = /obj/item/clothing/under/rank/rnd/geneticist
 	suit = /obj/item/clothing/suit/toggle/labcoat/genetics

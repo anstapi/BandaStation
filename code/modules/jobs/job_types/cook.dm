@@ -1,6 +1,6 @@
 /datum/job/cook
 	title = JOB_COOK
-	description = "Обеспечьте станцию едой, жарьте стейки, следите за тем, чтобы экипаж был сыт."
+	description = "Обеспечьте город едой, жарьте стейки, следите за тем, чтобы экипаж был сыт."
 	faction = FACTION_STATION
 	total_positions = 2
 	spawn_positions = 2

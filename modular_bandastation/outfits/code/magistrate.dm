@@ -9,7 +9,7 @@
 	ears = /obj/item/radio/headset/heads/magistrate/alt
 	glasses = /obj/item/clothing/glasses/hud/security/sunglasses
 
-	id = /obj/item/card/id/advanced/nanotrasen_official
+	id = /obj/item/card/id/advanced/tsf
 	id_trim = /datum/id_trim/job/magistrate
 
 	l_pocket = /obj/item/assembly/flash/handheld

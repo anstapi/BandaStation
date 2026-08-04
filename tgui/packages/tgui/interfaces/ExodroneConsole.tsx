@@ -212,7 +212,7 @@ const SignalLostModal = (props) => {
       </Box>
       <Box p={2} italic>
         Connection to exploration drone interrupted. Please contact nearest
-        Nanotrasen Exploration Division representative for further instructions.
+        Trans-Solar Federation Exploration Division representative for further instructions.
       </Box>
       <Icon name="exclamation-triangle" textColor="black" size={5} />
       <Box>

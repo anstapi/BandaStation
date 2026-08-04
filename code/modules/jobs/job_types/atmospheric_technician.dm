@@ -1,6 +1,6 @@
 /datum/job/atmospheric_technician
 	title = JOB_ATMOSPHERIC_TECHNICIAN
-	description = "Обеспечивайте пригодную атмосферу для дыхания на станции, заполняйте кислородные баллоны, тушите пожары, очищайте воздух."
+	description = "Обеспечивайте пригодную атмосферу для дыхания в городе, заполняйте кислородные баллоны, тушите пожары, очищайте воздух."
 	faction = FACTION_STATION
 	total_positions = 3
 	spawn_positions = 2
@@ -41,6 +41,7 @@
 	name = "Atmospheric Technician"
 	jobtype = /datum/job/atmospheric_technician
 
+	id = /obj/item/card/id/advanced/tsf
 	id_trim = /datum/id_trim/job/atmospheric_technician
 	uniform = /obj/item/clothing/under/rank/engineering/atmospheric_technician
 	suit = /obj/item/clothing/suit/atmos_overalls

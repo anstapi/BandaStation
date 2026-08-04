@@ -1,6 +1,6 @@
 /datum/job/roboticist
 	title = JOB_ROBOTICIST
-	description = "Создавайте и обслуживайте роботов и ИИ, создавайте мехов."
+	description = "Создавайте и обслуживайте роботов, создавайте мехов и механизмы."
 	faction = FACTION_STATION
 	total_positions = 2
 	spawn_positions = 2
@@ -42,6 +42,7 @@
 	name = "Roboticist"
 	jobtype = /datum/job/roboticist
 
+	id = /obj/item/card/id/advanced/tsf
 	id_trim = /datum/id_trim/job/roboticist
 	uniform = /obj/item/clothing/under/rank/rnd/roboticist
 	suit = /obj/item/clothing/suit/toggle/labcoat/roboticist

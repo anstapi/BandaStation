@@ -73,7 +73,7 @@
 /datum/uplink_item/stealthy_tools/mulligan
 	name = "Mulligan Kit"
 	desc = "Screwed up and have security on your tail? This handy syringe and set of documents will give you a completely new identity \
-			and appearance, intercepting Nanotrasen communications to announce you as a freshly recruited Assistant."
+			and appearance, intercepting Trans-Solar Federation communications to announce you as a freshly recruited Assistant."
 	item = /obj/item/storage/box/syndie_kit/mulligan
 	cost = 4
 	surplus = 30

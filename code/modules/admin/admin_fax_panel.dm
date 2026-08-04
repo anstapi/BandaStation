@@ -135,7 +135,7 @@ ADMIN_VERB(fax_panel, R_ADMIN, "Fax Panel", "View and respond to faxes sent to C
 		if("use_current_user")
 			if(ui.user)
 				generated_signer_name = ui.user.real_name
-				generated_signer_job = "Nanotrasen Navy Officer"
+				generated_signer_job = "Trans-Solar Federation Navy Officer"
 				return TRUE
 
 		if("save") // save paper

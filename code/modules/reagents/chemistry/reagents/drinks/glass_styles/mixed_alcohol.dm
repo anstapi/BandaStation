@@ -297,7 +297,7 @@
 /datum/glass_style/drinking_glass/acid_spit
 	required_drink_type = /datum/reagent/consumable/ethanol/acid_spit
 	name = "Acid Spit"
-	desc = "A drink from Nanotrasen. Made from live aliens."
+	desc = "A drink from Trans-Solar Federation. Made from live aliens."
 	icon_state = "acidspitglass"
 
 /datum/glass_style/drinking_glass/amasec
@@ -403,7 +403,7 @@
 /datum/glass_style/drinking_glass/atomicbomb
 	required_drink_type = /datum/reagent/consumable/ethanol/atomicbomb
 	name = "Atomic Bomb"
-	desc = "Nanotrasen cannot take legal responsibility for your actions after imbibing."
+	desc = "Trans-Solar Federation cannot take legal responsibility for your actions after imbibing."
 	icon = 'icons/obj/drinks/mixed_drinks.dmi'
 	icon_state = "atomicbombglass"
 
@@ -568,7 +568,7 @@
 /datum/glass_style/drinking_glass/between_the_sheets
 	required_drink_type = /datum/reagent/consumable/ethanol/between_the_sheets
 	name = "Between the Sheets"
-	desc = "The only drink that comes with a label reminding you of Nanotrasen's zero-tolerance promiscuity policy."
+	desc = "The only drink that comes with a label reminding you of Trans-Solar Federation's zero-tolerance promiscuity policy."
 	icon = 'icons/obj/drinks/mixed_drinks.dmi'
 	icon_state = "between_the_sheets"
 
@@ -907,7 +907,7 @@
 /datum/glass_style/drinking_glass/saibasan
 	required_drink_type = /datum/reagent/consumable/ethanol/saibasan
 	name = "Saibāsan"
-	desc = "A drink made in honour of Cybersun Industries' 600th year of continual business. Officially, you're meant to call this a \"Hong Kong Cooler\" on Nanotrasen stations, but that name sucks."
+	desc = "A drink made in honour of Cybersun Industries' 600th year of continual business. Officially, you're meant to call this a \"Hong Kong Cooler\" on Trans-Solar Federation stations, but that name sucks."
 	icon = 'icons/obj/drinks/mixed_drinks.dmi'
 	icon_state = "saibasan"
 

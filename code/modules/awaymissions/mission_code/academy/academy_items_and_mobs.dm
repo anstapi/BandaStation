@@ -92,7 +92,7 @@
 	r_hand = /obj/item/shield/buckler
 
 /mob/living/basic/trooper/nanotrasen/ranged/elite/traitor
-	name = "Traitor Nanotrasen Elite Assault Officer"
+	name = "Traitor Trans-Solar Federation Elite Assault Officer"
 	desc = "A nanotrasen elite assault officer turned traitor"
 	faction = list(ROLE_WIZARD)
 

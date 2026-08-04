@@ -193,7 +193,7 @@
 	department_bitflags = DEPARTMENT_BITFLAG_SILICON
 	department_head = /datum/job/ai
 	department_experience_type = EXP_TYPE_SILICON
-	display_order = 8
+	display_order = 999
 	ui_color = "#5dbda0"
 
 /datum/job_department/silicon/generate_nation_name()

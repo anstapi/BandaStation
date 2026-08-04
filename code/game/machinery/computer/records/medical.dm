@@ -15,7 +15,7 @@
 
 /obj/machinery/computer/records/medical/laptop
 	name = "medical laptop"
-	desc = "A cheap Nanotrasen medical laptop, it functions as a medical records computer. It's bolted to the table."
+	desc = "A cheap Trans-Solar Federation medical laptop, it functions as a medical records computer. It's bolted to the table."
 	icon_state = MAP_SWITCH("laptop", "/obj/machinery/computer/records/medical/laptop")
 	icon_screen = "medlaptop"
 	icon_keyboard = "laptop_key"

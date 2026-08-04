@@ -611,7 +611,7 @@
 
 /datum/design/paper_biscuit_confidential
 	name = "Confidential Paper Biscuit"
-	desc = "A paper biscuit which can seal paperwork inside, this one is used for confidential Nanotrasen documents. After sealing it the only way to open is through cracking it, cracking is irreversible and makes it permanently open. Not actually a biscuit."
+	desc = "A paper biscuit which can seal paperwork inside, this one is used for confidential Trans-Solar Federation documents. After sealing it the only way to open is through cracking it, cracking is irreversible and makes it permanently open. Not actually a biscuit."
 	id = "confidential_biscuit"
 	build_type = AUTOLATHE
 	materials = list(/datum/material/plastic = SMALL_MATERIAL_AMOUNT*0.3)

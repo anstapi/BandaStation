@@ -308,7 +308,7 @@
 
 ///Fully upgraded, not deconstructable, while using the normal sprite.
 /obj/machinery/sleeper/syndie/fullupgrade/nt
-	name = "\improper Nanotrasen sleeper"
+	name = "\improper Trans-Solar Federation sleeper"
 	icon_state = "sleeper"
 	base_icon_state = "sleeper"
 	deconstructable = FALSE

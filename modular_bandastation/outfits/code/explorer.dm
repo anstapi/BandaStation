@@ -5,6 +5,7 @@
 	uniform = /obj/item/clothing/under/color/orange
 	gloves = /obj/item/clothing/gloves/color/black
 	shoes = /obj/item/clothing/shoes/workboots
+	id = /obj/item/card/id/advanced/tsf
 	id_trim = /datum/id_trim/job/explorer
 	ears = /obj/item/radio/headset/headset_cargo
 

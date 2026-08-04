@@ -252,7 +252,7 @@
 	unzip_sfx = 'sound/items/zip/zip_up.ogg'
 
 /obj/item/storage/backpack/duffelbag/syndie/hitman
-	desc = "A large duffel bag for holding extra things. There is a Nanotrasen logo on the back."
+	desc = "A large duffel bag for holding extra things. There is a Trans-Solar Federation logo on the back."
 	icon_state = "duffel-syndieammo"
 	inhand_icon_state = "duffel-syndieammo"
 

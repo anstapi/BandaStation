@@ -1,6 +1,6 @@
 /datum/job/station_engineer
 	title = JOB_STATION_ENGINEER
-	description = "Запускайте двигатель Суперматерии, чините солнечные панели, чините обшивку станции \
+	description = "Запускайте двигатель Суперматерии, чините солнечные панели, чините обшивку города \
 		и поврежденную технику."
 	faction = FACTION_STATION
 	total_positions = 5
@@ -43,6 +43,7 @@
 	name = "Station Engineer"
 	jobtype = /datum/job/station_engineer
 
+	id = /obj/item/card/id/advanced/tsf
 	id_trim = /datum/id_trim/job/station_engineer
 	uniform = /obj/item/clothing/under/rank/engineering/engineer
 	belt = /obj/item/storage/belt/utility/full/engi

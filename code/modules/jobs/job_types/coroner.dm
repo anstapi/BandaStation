@@ -5,7 +5,7 @@
 	faction = FACTION_STATION
 	total_positions = 1
 	spawn_positions = 1
-	supervisors = "Главой Персонала, Главным Врачом"
+	supervisors = "Кадровым менеджером, Главным Врачом"
 	exp_granted_type = EXP_TYPE_CREW
 	config_tag = "CORONER"
 
@@ -47,6 +47,7 @@
 /datum/outfit/job/coroner
 	name = "Coroner"
 	jobtype = /datum/job/coroner
+	id = /obj/item/card/id/advanced/tsf
 	id_trim = /datum/id_trim/job/coroner
 
 	box = /obj/item/storage/box/survival/medical

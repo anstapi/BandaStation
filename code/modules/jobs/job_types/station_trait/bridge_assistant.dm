@@ -5,7 +5,7 @@
 	faction = FACTION_STATION
 	total_positions = 0
 	spawn_positions = 0
-	supervisors = "Капитаном, а в ситуациях, не связанных с мостиком, другими главами"
+	supervisors = "Мэром, а в ситуациях, не связанных с мостиком, другими главами"
 	minimal_player_age = 7
 	exp_requirements = 300
 	exp_required_type = EXP_TYPE_CREW

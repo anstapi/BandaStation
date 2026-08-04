@@ -114,7 +114,7 @@
 	drop_landing_sound = 'sound/effects/alert.ogg'
 
 /obj/docking_port/mobile/assault_pod/nanotrasen
-	name = "Nanotrasen assault pod"
+	name = "Trans-Solar Federation assault pod"
 	shuttle_id = "assault_pod_nt"
 	drop_landing_effect = /obj/effect/abstract/landing_zone
 	drop_landing_sound = 'modular_bandastation/shuttles/sound/landing_specops.ogg'

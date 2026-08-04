@@ -2,11 +2,11 @@
 //CentCom
 /datum/mod_theme/corporate
 	name = "corporate"
-	desc = "A fancy, high-tech suit for Nanotrasen's high ranking officers."
+	desc = "A fancy, high-tech suit for Trans-Solar Federation's high ranking officers."
 	extended_desc = "An even more costly version of the Magnate model, the corporate suit is a thermally insulated, \
 		anti-corrosion coated suit for high-ranking CentCom Officers, deploying pristine protective armor and \
 		advanced actuators, feeling practically weightless when turned on. Scraping the paint of this suit is \
-		counted as a war-crime and reason for immediate execution in over fifty Nanotrasen space stations. \
+		counted as a war-crime and reason for immediate execution in over fifty Trans-Solar Federation space stations. \
 		The resemblance to a Gorlex Marauder helmet is purely coincidental. This is the newest V2 revision, which has \
 		reflective reinforced-plasmaglass shielding weaved with advanced kevlar fibers. Sources say that some of the armor \
 		is ripped straight from an Apocryphal MODsuit."

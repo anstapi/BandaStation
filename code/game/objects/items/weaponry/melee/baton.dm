@@ -1012,17 +1012,17 @@
 	AddElement(/datum/element/examine_lore, \
 		lore_hint = span_notice("Вы можете [EXAMINE_HINT("осмотреть поближе")], чтобы узнать немного больше об этом предмете."), \
 		lore = "The Secure Apprehension Device (sometimes referred to as the SAD in the officer training manuals) is \
-		an unholy union of mace and cattleprod. Designed to stop criminals in their tracks, Nanotrasen security members \
+		an unholy union of mace and cattleprod. Designed to stop criminals in their tracks, Trans-Solar Federation security members \
 		are rarely without their trusty stun baton. Assuming they haven't lost it somewhere.<br>\
 		<br>\
-		Trained to 'baton first, interrogate later', Nanotrasen security has long since earned itself a mixed reputation. \
+		Trained to 'baton first, interrogate later', Trans-Solar Federation security has long since earned itself a mixed reputation. \
 		The device is able to rapidly shut down the central nervous system of a criminal with only a few direct applications \
 		of the conductive striking head.<br>\
 		<br>\
 		TerraGov law enforcement has avoided the adoption of stun batons due to various ethical dilemmas posed by \
 		their utilization. Studies of their usage have shown numerous longterm physical and mental ramifications caused by \
 		being struck by a human cattleprod. Citizens' rights advocacy groups protest against the proliferation of stun \
-		batons as a policing tool, arguing that they are 'inhumane' and 'authoritarian'. Nanotrasen, on the other hand, \
+		batons as a policing tool, arguing that they are 'inhumane' and 'authoritarian'. Trans-Solar Federation, on the other hand, \
 		has had no such qualms when deploying stun batons as a compliance measure across all of their existing stations \
 		and facilities against their own unruly members of staff." \
 	)
@@ -1033,7 +1033,7 @@
 	AddElement(/datum/element/examine_lore, \
 		lore_hint = span_notice("Вы можете [EXAMINE_HINT("осмотреть поближе")], чтобы узнать немного больше об этом предмете."), \
 		lore = "The Contract Acquisition Device (sometimes referred to as the CAD in encrypted correspondence) is \
-		the most frequently encountered example of Cybersun Industries weaponry. Similar in purpose to Nanotrasen's \
+		the most frequently encountered example of Cybersun Industries weaponry. Similar in purpose to Trans-Solar Federation's \
 		own Secure Apprehension Device, the baton is capable of inducing rapid CNS disruption in a target to render them \
 		helpless. It also makes for an effective bludgeon, another quality it shares with the stun baton. To maximize \
 		ease of concealment, the baton is also able to be telescopically collapsed, to then be rapidly deployed at the \
@@ -1041,6 +1041,6 @@
 		<br>\
 		The contractor baton is famously associated with contractors, elite Cybersun field agents sent to kidnap and extract \
 		high value enemy personnel for interrogation. Anyone with the potential to possess classified or sensitive data about \
-		Nanotrasen could find themselves a target for Cybersun. The company relentlessly employs contractors to probe Nanotrasen \
+		Trans-Solar Federation could find themselves a target for Cybersun. The company relentlessly employs contractors to probe Trans-Solar Federation \
 		for vulnerabilities, starting with their employees." \
 	)

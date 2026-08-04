@@ -3,11 +3,11 @@ import { CHANGELING_MECHANICAL_DESCRIPTION } from './changeling';
 
 const ChangelingMidround: Antagonist = {
   key: 'changelingmidround',
-  name: 'Генокрад с космоса',
+  name: 'Генокрад с Марса',
   description: [
     `
     Вариант генокрада, который не получает личность экипажа, а прибывает
-    из космоса во время смены. Эта версия сложнее, чем начинающаяся в начале смены!
+    с Марса во время смены. Эта версия сложнее, чем начинающаяся в начале смены!
     `,
     CHANGELING_MECHANICAL_DESCRIPTION,
   ],

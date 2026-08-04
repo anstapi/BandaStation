@@ -42,6 +42,7 @@
 	backpack_contents = list(
 		/obj/item/boxcutter = 1,
 	)
+	id = /obj/item/card/id/advanced/tsf
 	id_trim = /datum/id_trim/job/cargo_technician
 	uniform = /obj/item/clothing/under/rank/cargo/tech
 	belt = /obj/item/modular_computer/pda/cargo

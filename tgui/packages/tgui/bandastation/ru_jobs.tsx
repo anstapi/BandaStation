@@ -46,7 +46,7 @@ export const JOBS_RU = {
   // BANDASTATION jobs
   Blueshield: 'Телохранитель',
   Magistrate: 'Главный судья',
-  'Nanotrasen Representative': 'Представитель ТСФ',
+  'Trans-Solar Federation Representative': 'Представитель ТСФ',
   // Event jobs
   'Veteran Security Advisor': 'Ветеран советчик СБ',
   'Bridge Assistant': 'Адъютант',
@@ -75,5 +75,6 @@ export const DEPARTMENTS_RU = {
   Medical: 'Медицина',
   Silicon: 'Синтетики',
   Engineering: 'Инженерия',
+  Assistant: 'Жители',
   'No Department': 'Жители',
 };

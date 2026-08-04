@@ -15,7 +15,7 @@
 	pickup_sound = 'sound/items/handling/gun/ballistics/smg/smg_pickup1.ogg'
 
 /obj/item/gun/ballistic/automatic/proto
-	name = "\improper Nanotrasen Saber SMG"
+	name = "\improper Trans-Solar Federation Saber SMG"
 	desc = "A prototype full-auto 9mm submachine gun, designated 'SABR'. Has a threaded barrel for suppressors."
 	icon_state = "saber"
 	burst_size = 1
@@ -65,8 +65,8 @@
 
 /obj/item/gun/ballistic/automatic/wt550
 	name = "\improper WT-550 Autorifle"
-	desc = "Recalled by Nanotrasen due to public backlash around heat distribution resulting in unintended discombobulation. \
-		This outcry was fabricated through various Syndicate-backed misinformation operations to force Nanotrasen to abandon \
+	desc = "Recalled by Trans-Solar Federation due to public backlash around heat distribution resulting in unintended discombobulation. \
+		This outcry was fabricated through various Syndicate-backed misinformation operations to force Trans-Solar Federation to abandon \
 		its ballistics weapon program, cornering them into the energy weapons market. Most often found today in the hands of pirates, \
 		underfunded security personnel, cargo technicians, theoretical physicists, and gang bangers out on the rim. \
 		Light-weight and fully automatic. Uses 4.6x30mm rounds."
@@ -226,7 +226,7 @@
 
 /obj/item/gun/ballistic/automatic/ar
 	name = "\improper NT-ARG 'Boarder'"
-	desc = "A robust assault rifle used by Nanotrasen fighting forces."
+	desc = "A robust assault rifle used by Trans-Solar Federation fighting forces."
 	icon_state = "arg"
 	inhand_icon_state = "arg"
 	slot_flags = 0
@@ -323,7 +323,7 @@
 
 /obj/item/gun/ballistic/automatic/laser
 	name = "laser rifle"
-	desc = "Though sometimes mocked for the relatively weak firepower of their energy weapons, the logistic miracle of rechargeable ammunition has given Nanotrasen a decisive edge over many a foe."
+	desc = "Though sometimes mocked for the relatively weak firepower of their energy weapons, the logistic miracle of rechargeable ammunition has given Trans-Solar Federation a decisive edge over many a foe."
 	icon_state = "oldrifle"
 	w_class = WEIGHT_CLASS_BULKY
 	inhand_icon_state = "arg"
@@ -341,7 +341,7 @@
 
 /obj/item/gun/ballistic/automatic/battle_rifle
 	name = "\improper NT BR-38 battle rifle"
-	desc = "Nanotrasen's latest prototype .38 Special longarm, found exclusively in the hands of their private security teams. \
+	desc = "Trans-Solar Federation's latest prototype .38 Special longarm, found exclusively in the hands of their private security teams. \
 		Technically a pistol-caliber carbine, despite the name and its use as a designated marksman rifle. Acceleration technology \
 		enables improved ballistic performance, but necessitates maintenance."
 	icon = 'icons/obj/weapons/guns/wide_guns.dmi'
@@ -392,7 +392,7 @@
 	. = ..()
 	AddComponent(/datum/component/scope, range_modifier = 2)
 	AddElement(/datum/element/examine_lore, \
-		lore = "The BR-38 is Nanotrasen's latest foray into entirely in-house, standard-issue-ready, accelerator-assisted ballistic firearms.<br>\
+		lore = "The BR-38 is Trans-Solar Federation's latest foray into entirely in-house, standard-issue-ready, accelerator-assisted ballistic firearms.<br>\
 		<br>\
 		The acceleration rail built into the barrel assembly boosts fired projectiles to higher velocities than unassisted bullets, \
 		allowing even less powerful cartridges, such as the venerable .38 Special, to have improved ballistic performance and stopping power. \
@@ -401,9 +401,9 @@
 		<br>\
 		It's hard to cover up everything about its troubled development, though.<br>\
 		<br>\
-		In a sour twist of irony for Nanotrasen's historical issues with ballistics-based security weapons, the BR-38 has one significant flaw. \
+		In a sour twist of irony for Trans-Solar Federation's historical issues with ballistics-based security weapons, the BR-38 has one significant flaw. \
 		It is possible for the weapons system to suffer from unintended discombulations due to closed heat distribution systems, should the weapon be tampered with. \
-		Nanotrasen's weapons R&D teams are still working on this issue, while also trying to work out why the weapon's onboard computation systems \
+		Trans-Solar Federation's weapons R&D teams are still working on this issue, while also trying to work out why the weapon's onboard computation systems \
 		suffer from so many calculation errors, before moving onto a full commercial rollout." \
 	)
 	register_context()

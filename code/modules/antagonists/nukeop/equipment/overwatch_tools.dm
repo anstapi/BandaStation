@@ -4,7 +4,7 @@
 	color = COLOR_RED
 	desc = "A note from Syndicate leadership regarding your new job. You should read this!"
 	default_raw_text = @{"
-Congratulations! You have been picked to be the Sole Survivor of an anti-Nanotrasen suicide mission!
+Congratulations! You have been picked to be the Sole Survivor of an anti-Trans-Solar Federation suicide mission!
 We're kidding of course, these types of missions tend to have abnormally high survival rates. I guess that says a lot about who your team will be going up against.
 <br>
 You've been assigned to provide intelligence support to the ground-pounders carrying out the operation.

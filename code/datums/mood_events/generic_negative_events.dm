@@ -472,7 +472,7 @@
 	mood_change = power
 
 /datum/mood_event/unsatisfied_nomad
-	description = "Я здесь слишком долго нахожусь! Я хочу выйти наружу и исследовать космос!"
+	description = "Я здесь слишком долго нахожусь! Я хочу выйти наружу и исследовать Марс!"
 	mood_change = -3
 
 /datum/mood_event/moon_insanity

@@ -6,7 +6,7 @@
 	/// Name that is displayed to admins in pod config panel
 	var/ui_name = "Standard"
 	/// Description assigned to droppods of this style
-	var/desc = "A Nanotrasen supply drop pod."
+	var/desc = "A Trans-Solar Federation supply drop pod."
 	/// Determines if this pod can use animations/masking/overlays
 	var/shape = POD_SHAPE_NORMAL
 	/// Base icon state assigned to this pod
@@ -25,15 +25,15 @@
 /datum/pod_style/advanced
 	name = "bluespace supply pod"
 	ui_name = "Advanced"
-	desc = "A Nanotrasen Bluespace supply pod. Teleports back to CentCom after delivery."
+	desc = "A Trans-Solar Federation Bluespace supply pod. Teleports back to CentCom after delivery."
 	decal_icon = "bluespace"
 	glow_color = "blue"
 	id = "bluespace"
 
 /datum/pod_style/centcom
 	name = "\improper CentCom supply pod"
-	ui_name = "Nanotrasen"
-	desc = "A Nanotrasen supply pod. This one has been marked with Central Command's designations. Teleports back to CentCom after delivery."
+	ui_name = "Trans-Solar Federation"
+	desc = "A Trans-Solar Federation supply pod. This one has been marked with Central Command's designations. Teleports back to CentCom after delivery."
 	decal_icon = "centcom"
 	glow_color = "blue"
 	id = "centcom"
@@ -50,7 +50,7 @@
 /datum/pod_style/deathsquad
 	name = "\improper Deathsquad drop pod"
 	ui_name = "Deathsquad"
-	desc = "A Nanotrasen drop pod. This one has been marked the markings of Nanotrasen's elite strike team."
+	desc = "A Trans-Solar Federation drop pod. This one has been marked the markings of Trans-Solar Federation's elite strike team."
 	icon_state = "darkpod"
 	decal_icon = "deathsquad"
 	glow_color = "blue"
@@ -59,7 +59,7 @@
 /datum/pod_style/cultist
 	name = "bloody supply pod"
 	ui_name = "Cultist"
-	desc = "A Nanotrasen supply pod covered in scratch-marks, blood, and strange runes."
+	desc = "A Trans-Solar Federation supply pod covered in scratch-marks, blood, and strange runes."
 	decal_icon = "cultist"
 	glow_color = "red"
 	id = "cultist"

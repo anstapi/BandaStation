@@ -79,7 +79,7 @@ MAPPING_DIRECTIONAL_HELPERS(/obj/structure/sign/poster/contraband/bread, 32)
 
 /obj/structure/sign/poster/sword_of_altam
 	poster_item_name = "SOA poster"
-	poster_item_desc = "This poster comes with its own automatic adhesive mechanism, for easy pinning to any vertical surface. Its vulgar themes have marked it as contraband aboard Nanotrasen space facilities."
+	poster_item_desc = "This poster comes with its own automatic adhesive mechanism, for easy pinning to any vertical surface. Its vulgar themes have marked it as contraband aboard Trans-Solar Federation space facilities."
 	poster_item_icon_state = "rolled_poster"
 
 /obj/structure/sign/poster/sword_of_altam/random

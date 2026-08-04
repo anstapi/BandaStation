@@ -1,13 +1,13 @@
 /datum/job/captain
 	title = JOB_CAPTAIN
-	description = "Будьте ответственны за станцию, руководите главами, \
-		сохраните жизнь экипажу, будьте готовы сделать всё возможное или умрите \
+	description = "Будьте ответственны за город, руководите главами, \
+		сохраните жизнь гражданам, будьте готовы сделать всё возможное или умрите \
 		в муках, пытаясь это сделать."
 	auto_deadmin_role_flags = DEADMIN_POSITION_HEAD|DEADMIN_POSITION_SECURITY
 	faction = FACTION_STATION
 	total_positions = 1
 	spawn_positions = 1
-	supervisors = "официальными лицами Нанотрейзен"
+	supervisors = "официальными лицами ТСФ"
 	req_admin_notify = 1
 	minimal_player_age = 14
 	exp_requirements = 1800
@@ -62,7 +62,7 @@
 	name = "Captain"
 	jobtype = /datum/job/captain
 
-	id = /obj/item/card/id/advanced/gold
+	id = /obj/item/card/id/advanced/tsf
 	id_trim = /datum/id_trim/job/captain
 	uniform = /obj/item/clothing/under/rank/captain
 	suit = /obj/item/clothing/suit/armor/vest/capcarapace

@@ -123,7 +123,7 @@
 		"Ghosts are one of the spookiest creatures known in the galaxy. \
 		While they still need their protein to sustain themselves, they are able to control their own bodies, \
 		going through walls and getting rid of all their posessions at will. \
-		Most knowledge known about them is kept secret by Nanotrasen's top Chaplains, who are keen \
+		Most knowledge known about them is kept secret by Trans-Solar Federation's top Chaplains, who are keen \
 		to keep it private.",
 	)
 

@@ -43,6 +43,7 @@
 	name = "Medical Doctor"
 	jobtype = /datum/job/doctor
 
+	id = /obj/item/card/id/advanced/tsf
 	id_trim = /datum/id_trim/job/medical_doctor
 	uniform = /obj/item/clothing/under/rank/medical/doctor
 	suit = /obj/item/clothing/suit/toggle/labcoat

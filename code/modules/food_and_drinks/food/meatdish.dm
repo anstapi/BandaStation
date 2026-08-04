@@ -567,7 +567,7 @@
 
 /obj/item/food/patty
 	name = "patty"
-	desc = "The Nanotrasen patty is the patty for you and me!"
+	desc = "The Trans-Solar Federation patty is the patty for you and me!"
 	icon = 'icons/obj/food/meat.dmi'
 	icon_state = "patty"
 	custom_materials = list(/datum/material/meat = MEATDISH_MATERIAL_AMOUNT)

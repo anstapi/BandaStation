@@ -8,7 +8,7 @@
 		"MODular Solutions",
 		"SolGov",
 		"Australicus Industrial Mining",
-		"Nanotrasen-DeForest Corporation",
+		"Trans-Solar Federation-DeForest Corporation",
 		"Aussec Armory",
 		"Dreamland Robotics"
 	)

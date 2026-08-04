@@ -40,7 +40,7 @@
 
 // A book that links to the wiki
 /obj/item/book/manual/wiki
-	starting_content = "Nanotrasen presently does not have any resources on this topic. \
+	starting_content = "Trans-Solar Federation presently does not have any resources on this topic. \
 		If you would like to know more, contact your local Central Command representative." // safety
 	abstract_type = /obj/item/book/manual/wiki
 	/// The ending URL of the page that we link to.
@@ -62,7 +62,7 @@
 /obj/item/book/manual/wiki/chemistry
 	name = "Chemistry Textbook"
 	icon_state ="chemistrybook"
-	starting_author = "Nanotrasen"
+	starting_author = "Trans-Solar Federation"
 	starting_title = "Chemistry Textbook"
 	page_link = "Guide_to_chemistry"
 
@@ -82,9 +82,9 @@
 
 /obj/item/book/manual/wiki/security_space_law
 	name = "Space Law"
-	desc = "A set of Nanotrasen guidelines for keeping law and order on their space stations."
+	desc = "A set of Trans-Solar Federation guidelines for keeping law and order on their space stations."
 	icon_state = "bookSpaceLaw"
-	starting_author = "Nanotrasen"
+	starting_author = "Trans-Solar Federation"
 	starting_title = "Space Law"
 	page_link = "Space_Law"
 
@@ -116,7 +116,7 @@
 /obj/item/book/manual/wiki/detective
 	name = "The Film Noir: Proper Procedures for Investigations"
 	icon_state ="bookDetective"
-	starting_author = "Nanotrasen"
+	starting_author = "Trans-Solar Federation"
 	starting_title = "The Film Noir: Proper Procedures for Investigations"
 	page_link = "Detective"
 
@@ -227,7 +227,7 @@
 /obj/item/book/manual/wiki/plumbing
 	name = "Chemical Factories Without Narcotics"
 	icon_state ="plumbingbook"
-	starting_author = "Nanotrasen"
+	starting_author = "Trans-Solar Federation"
 	starting_title = "Chemical Factories Without Narcotics"
 	page_link = "Guide_to_plumbing"
 
@@ -241,7 +241,7 @@
 /obj/item/book/manual/wiki/tgc
 	name = "Tactical Game Cards - Player's Handbook"
 	icon_state = "tgcbook"
-	starting_author = "Nanotrasen Edu-tainment Division"
+	starting_author = "Trans-Solar Federation Edu-tainment Division"
 	starting_title = "Tactical Game Cards - Player's Handbook"
 	page_link = "Tactical_Game_Cards"
 

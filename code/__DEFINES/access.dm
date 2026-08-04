@@ -152,7 +152,7 @@
 // BANDASTATION ADD - START Jobs Module
 /// Access to Blueshield's office and closet
 #define ACCESS_BLUESHIELD "blueshield"
-/// Access to Nanotrasen Representative's office and closet
+/// Access to Trans-Solar Federation Representative's office and closet
 #define ACCESS_NANOTRASEN_REPRESENTATIVE "nanotrasen_representative"
 /// Access to Magistrate's office and closet
 #define ACCESS_MAGISTRATE "magistrate"
@@ -579,7 +579,7 @@
 /// Name for the NT Representation region.
 #define REGION_NT_REPRESENTATION "NT Representation"
 /// Used to seed the accesses_by_region list in SSid_access.
-/// A list of all regional accesses that are overseen by the Nanotrasen Representative.
+/// A list of all regional accesses that are overseen by the Trans-Solar Federation Representative.
 #define REGION_ACCESS_NT_REPRESENTATION list( \
 	ACCESS_BLUESHIELD, \
 	ACCESS_NANOTRASEN_REPRESENTATIVE, \

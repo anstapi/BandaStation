@@ -123,7 +123,7 @@
 		is a subcutaneous hybrid vitals tracker and encrypted transmitter, \
 		designed to communicate with other FNS units implanted within other hosts. Upon detecting a lack of vital signs, \
 		the FNS will relay the fatality and its rough estimated location to the other hosts. How it can communicate \
-		over such long distances is a trade secret that both Nanotrasen and the Syndicate are quite curious about."
+		over such long distances is a trade secret that both Trans-Solar Federation and the Syndicate are quite curious about."
 
 	/// What deathrattle group type do we create? Group types dictate area whitelisting/blacklisting.
 	var/deathrattle_group_type = /datum/deathrattle_group/standard

@@ -304,7 +304,7 @@
 // Syndicate intercom that also has freefrange on top of syndicate channel
 /obj/item/radio/intercom/syndicate/freerange
 	name = "syndicate wide-band intercom"
-	desc = "A custom-made Syndicate-issue intercom used to transmit on all Nanotrasen frequencies. Particularly expensive."
+	desc = "A custom-made Syndicate-issue intercom used to transmit on all Trans-Solar Federation frequencies. Particularly expensive."
 	freerange = TRUE
 
 /obj/item/radio/intercom/mi13

@@ -183,7 +183,7 @@
 
 /obj/item/clothing/glasses/meson/engine/admin
 	name = "admin imaging goggles"
-	desc = "Used by Nanotrasen admins to detect blueprint areas, pipes, thermal, wiring, and pipes."
+	desc = "Used by Trans-Solar Federation admins to detect blueprint areas, pipes, thermal, wiring, and pipes."
 	range = 7
 	modes = list(MODE_NONE, MODE_TRAY, MODE_PIPE_CONNECTABLE, MODE_ATMOS_THERMAL, MODE_AREA_BLUEPRINTS)
 

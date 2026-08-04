@@ -179,7 +179,7 @@
 	auto_inject = FALSE
 	auto_replenish = FALSE
 	special = TRUE
-	var/objective = "Obey the law. Praise Nanotrasen."
+	var/objective = "Obey the law. Praise Trans-Solar Federation."
 	var/custom = FALSE
 
 /obj/machinery/implantchair/brainwash/implant_action(mob/living/C, mob/user)

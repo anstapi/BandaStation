@@ -587,7 +587,7 @@ MAPPING_DIRECTIONAL_HELPERS(/obj/structure/reagent_dispensers/wall/peppertank, 3
 
 /obj/structure/reagent_dispensers/keg
 	name = "keg"
-	desc = "A keg, usually filled with some low-grade, Nanotrasen brewed alcoholic drink."
+	desc = "A keg, usually filled with some low-grade, Trans-Solar Federation brewed alcoholic drink."
 	icon_state = "keg"
 	openable = TRUE
 	var/keg_print

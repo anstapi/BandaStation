@@ -45,7 +45,7 @@
 		/obj/item/melee/baton/telescopic/bronze = 1,
 	)
 	id_trim = /datum/id_trim/job/quartermaster
-	id = /obj/item/card/id/advanced/silver
+	id = /obj/item/card/id/advanced/tsf
 	uniform = /obj/item/clothing/under/rank/cargo/qm
 	belt = /obj/item/modular_computer/pda/heads/quartermaster
 	suit = /obj/item/clothing/suit/jacket/quartermaster

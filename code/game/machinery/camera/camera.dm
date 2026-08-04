@@ -13,7 +13,7 @@
  */
 /obj/item/wallframe/camera
 	name = "camera assembly"
-	desc = "The basic construction for Nanotrasen-Always-Watching-You cameras."
+	desc = "The basic construction for Trans-Solar Federation-Always-Watching-You cameras."
 	icon = 'icons/obj/machines/camera.dmi'
 	icon_state = "cameracase"
 	custom_materials = list(/datum/material/iron = SHEET_MATERIAL_AMOUNT)

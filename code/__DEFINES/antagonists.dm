@@ -220,7 +220,7 @@ GLOBAL_LIST_INIT(syndicate_employers, list(
 	"Waffle Corporation",
 	"S.E.L.F. Activist" // BANDASTATION ADDITION - Syndicate Lore Rewritten
 ))
-///employers that are from Nanotrasen
+///employers that are from Trans-Solar Federation
 GLOBAL_LIST_INIT(nanotrasen_employers, list(
 	//"Champions of Evil", BANDASTATION REMOVAL - Syndicate Faction removal
 	"Corporate Climber",

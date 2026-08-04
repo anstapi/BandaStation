@@ -66,7 +66,7 @@
 		high stopping power makes it a favourite amongst soldiers of fortune across known space.<br> \
 		<br>\
 		The ease of concealment due to the weapon's sleek profile has given it a well-earned reputation as the 'smuggler's gun of course'. While \
-		space pirate bands tend to favour the HDS-1 created by Nanotrasen due to their low maintenance cost, the Ansem has seen plenty of use by \
+		space pirate bands tend to favour the HDS-1 created by Trans-Solar Federation due to their low maintenance cost, the Ansem has seen plenty of use by \
 		mercernaries, hitmen and espionage agents. Dozens of seized Ansem pistols line evidence lockups across the Spinward. Many with extremely \
 		long and bloodied histories from years of service amongst underground criminal elements." \
 	)
@@ -372,13 +372,13 @@
 	AddElement(/datum/element/examine_lore, \
 		lore = "The Liberator pattern, according to digital historians, was first posted to a fringe imageboard on the NTNet. The post included a now dead \
 		link to a defuncting hosting service through which board members were encouraged to download and 'admire' the design. The thread's author began their \
-		post by describing their extreme vitriolic hatred of so-called 'moon men' amongst the Nanotrasen 'elites'. And that, through 'the sauce', they had \
+		post by describing their extreme vitriolic hatred of so-called 'moon men' amongst the Trans-Solar Federation 'elites'. And that, through 'the sauce', they had \
 		been shown a means to 'end the oppression of Luna's Tormentors'. They called it the 'Liberator' as a result.<br>\
 		<br>\
 		Response to this thread began as skeptism amongst posters regarding the 3D pattern. Many highlighted the dubious functionality, let alone safe operation \
 		of a gun created using cheap plastic and minimal machined parts firing a high pressure round through an unrifled barrel. But the thread suddenly began to \
 		gain traction immediately following a particular news article published by the Spinward Dove, a respected editorial in the Spinward Sector. The author of this \
-		article recounts that, during a particularly brisk day in New Moscow, they observed three off-duty Nanotrasen assistants attempting to use what the author \
+		article recounts that, during a particularly brisk day in New Moscow, they observed three off-duty Trans-Solar Federation assistants attempting to use what the author \
 		described as a 'bizarre plastic doohickey' to shoot a mouse at point blank. The horrific aftermath, and images of the rattled but otherwise unscathed mouse, lead many \
 		to try and find from where these now crippled assistants had come across such an absurd device. Word spread of the post, and its author's continuously nonsensical \
 		rants regarding their hated foe in other areas of the imageboard.<br>\

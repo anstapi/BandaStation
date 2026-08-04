@@ -74,7 +74,7 @@
 
 /datum/bounty/item/assistant/statue
 	name = "Статуя"
-	description = "Центральное Командование хотело бы вычурную статую для лобби. Отправьте одну, когда это будет возможно."
+	description = "Командование ТСФ хотело бы вычурную статую для лобби. Отправьте одну, когда это будет возможно."
 	reward = CARGO_CRATE_VALUE * 4
 	wanted_types = list(/obj/structure/statue = TRUE)
 
@@ -156,7 +156,7 @@
 
 /datum/bounty/item/assistant/potted_plants
 	name = "Комнатные растения"
-	description = "Центральное Командование хочет укомплектовать новую станцию класса BirdBoat. Вам был дан заказ на снабжение станции комнатными растениями."
+	description = "Командование ТСФ хочет укомплектовать новую станцию класса BirdBoat. Вам был дан заказ на снабжение станции комнатными растениями."
 	reward = CARGO_CRATE_VALUE * 4
 	required_count = 3
 	wanted_types = list(
@@ -166,7 +166,7 @@
 
 /datum/bounty/item/assistant/monkey_cubes
 	name = "Кубы обезьян"
-	description = "В связи с недавним инцидентом в генетике, Центральное Командование остро нуждается в обезьянах. Ваша задача отправить кубы обезьян."
+	description = "В связи с недавним инцидентом в генетике, Командование ТСФ остро нуждается в обезьянах. Ваша задача отправить кубы обезьян."
 	reward = CARGO_CRATE_VALUE * 4
 	required_count = 3
 	wanted_types = list(/obj/item/food/monkeycube = TRUE)

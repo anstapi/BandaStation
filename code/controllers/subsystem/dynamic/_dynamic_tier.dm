@@ -118,7 +118,7 @@
 
 	advisory_report = "Advisory Level: <b>Green Star</b></center><BR>\
 		Your sector's advisory level is Green Star. \
-		Surveillance information shows no credible threats to Nanotrasen assets within the Spinward Sector at this time. \
+		Surveillance information shows no credible threats to Trans-Solar Federation assets within the Spinward Sector at this time. \
 		As always, the Department advises maintaining vigilance against potential threats, regardless of a lack of known threats."
 
 /datum/dynamic_tier/low
@@ -177,7 +177,7 @@
 	advisory_report = "Advisory Level: <b>Red Star</b></center><BR>\
 		Your sector's advisory level is Red Star. \
 		The Department of Intelligence has decrypted Cybersun communications suggesting a high likelihood of attacks \
-		on Nanotrasen assets within the Spinward Sector. \
+		on Trans-Solar Federation assets within the Spinward Sector. \
 		Stations in the region are advised to remain highly vigilant for signs of enemy activity and to be on high alert."
 
 	ruleset_type_settings = list(
@@ -276,7 +276,7 @@
 	advisory_report = "Advisory Level: <b>Midnight Sun</b></center><BR>\
 		Your sector's advisory level is Midnight Sun. \
 		Credible information passed to us by GDI suggests that the Syndicate \
-		is preparing to mount a major concerted offensive on Nanotrasen assets in the Spinward Sector to cripple our foothold there. \
+		is preparing to mount a major concerted offensive on Trans-Solar Federation assets in the Spinward Sector to cripple our foothold there. \
 		All stations should remain on high alert and prepared to defend themselves."
 
 	ruleset_type_settings = list(

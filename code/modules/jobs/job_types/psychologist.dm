@@ -3,9 +3,9 @@
 	description = "Следите за рассудком экипажа, а также за своим, и помогайте экипажу \
 		с их бедами с башкой."
 	faction = FACTION_STATION
-	total_positions = 1
-	spawn_positions = 1
-	supervisors = "Главой Персонала, Главным Врачом"
+	total_positions = 0
+	spawn_positions = 0
+	supervisors = "Кадровым менеджером, Главным Врачом"
 	exp_granted_type = EXP_TYPE_CREW
 	config_tag = "PSYCHOLOGIST"
 
@@ -30,7 +30,7 @@
 		/obj/item/gun/syringe = 1
 	)
 	rpg_title = "Snake Oil Salesman"
-	job_flags = STATION_JOB_FLAGS
+	job_flags = JOB_EQUIP_RANK | JOB_CANNOT_OPEN_SLOTS
 
 
 /datum/outfit/job/psychologist

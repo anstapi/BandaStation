@@ -125,7 +125,7 @@
 
 /// BANDASTATION ADDITION START - Jobs Module
 //NT Representation
-#define JOB_NANOTRASEN_REPRESENTATIVE "Nanotrasen Representative"
+#define JOB_NANOTRASEN_REPRESENTATIVE "Trans-Solar Federation Representative"
 #define JOB_BLUESHIELD "Blueshield"
 //Justice
 #define JOB_LAWYER "Lawyer"

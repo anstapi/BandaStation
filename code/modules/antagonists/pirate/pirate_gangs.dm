@@ -143,7 +143,7 @@ GLOBAL_LIST_INIT(heavy_pirate_gangs, init_pirate_gangs(is_heavy = TRUE))
 	response_not_enough = "Этого недостаточно для наших операций. Боюсь, нам придется одолжить немного."
 	announcement_color = "purple"
 
-///Previous Nanotrasen Assitant workers fired for many reasons now looking for revenge and your bank account.
+///Previous Trans-Solar Federation Assitant workers fired for many reasons now looking for revenge and your bank account.
 /datum/pirate_gang/grey
 	name = "The Grey Tide"
 

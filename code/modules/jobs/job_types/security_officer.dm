@@ -6,7 +6,7 @@
 	faction = FACTION_STATION
 	total_positions = 5 //Handled in /datum/controller/occupations/proc/setup_officer_positions()
 	spawn_positions = 5 //Handled in /datum/controller/occupations/proc/setup_officer_positions()
-	supervisors = "Главой Службы Безопасности, Смотрителем"
+	supervisors = "Начальником PD, Суперинтендантом"
 	minimal_player_age = 7
 	exp_requirements = 300
 	exp_required_type = EXP_TYPE_CREW
@@ -230,6 +230,7 @@ GLOBAL_LIST_EMPTY(security_officer_distribution)
 	name = "Security Officer"
 	jobtype = /datum/job/security_officer
 
+	id = /obj/item/card/id/advanced/tsf
 	id_trim = /datum/id_trim/job/security_officer
 	uniform = /obj/item/clothing/under/rank/security/officer
 	suit = /obj/item/clothing/suit/armor/vest/alt/sec

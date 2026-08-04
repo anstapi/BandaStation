@@ -74,7 +74,7 @@ export const DEPARTMENT2COLOR: Record<string, Department> = {
   // BANDASTATION ADD - START
   'nt representation': {
     color: 'label',
-    trims: ['Nanotrasen Representative', 'Blueshield'],
+    trims: ['Trans-Solar Federation Representative', 'Blueshield'],
   },
   justice: {
     color: 'purple',

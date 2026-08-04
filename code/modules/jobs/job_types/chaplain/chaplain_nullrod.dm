@@ -812,7 +812,7 @@ GLOBAL_LIST_INIT(nullrod_variants, init_nullrod_variants())
 
 /obj/item/nullrod/nullblade
 	name = "nullblade"
-	desc = "Clerical assassins are not officially recognized by the collective faiths of Nanotrasen. And yet, here you are."
+	desc = "Clerical assassins are not officially recognized by the collective faiths of Trans-Solar Federation. And yet, here you are."
 	icon = 'icons/obj/weapons/sword.dmi'
 	icon_state = "nullsword"
 	inhand_icon_state = "nullsword"

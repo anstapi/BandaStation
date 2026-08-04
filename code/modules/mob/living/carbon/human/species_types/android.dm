@@ -58,7 +58,7 @@
 
 /datum/species/android/get_species_lore()
 	return list(
-		"Androids are a synthetic species created by Nanotrasen as an intermediary between humans and cyborgs."
+		"Androids are a synthetic species created by Trans-Solar Federation as an intermediary between humans and cyborgs."
 	)
 
 /datum/species/android/create_pref_traits_perks()

@@ -223,7 +223,7 @@
 		TerraGov Subdermal Weapons Accord, and have continued to exist as a means of disposing of the self-replicating stocks \
 		of weaponized nanites.<br>\
 		<br>\
-		This is an example of Nanotrasen's Viper Classic model, based on earlier models of the weapon in appearance, but using \
+		This is an example of Trans-Solar Federation's Viper Classic model, based on earlier models of the weapon in appearance, but using \
 		up to date nanite breeding chambers that respond to user articulation. That is, the weapons can be charged with a vigorous \
 		shake. Though most users prefer to use the custom trick triggerguard to twirl them on their finger. Mostly for showmanship. <br>\
 		<br>\

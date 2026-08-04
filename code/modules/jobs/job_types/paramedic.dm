@@ -43,7 +43,7 @@
 	name = "Paramedic"
 	jobtype = /datum/job/paramedic
 
-	id = /obj/item/card/id/advanced
+	id = /obj/item/card/id/advanced/tsf
 	id_trim = /datum/id_trim/job/paramedic
 	uniform = /obj/item/clothing/under/rank/medical/paramedic
 	suit = /obj/item/clothing/suit/toggle/labcoat/paramedic

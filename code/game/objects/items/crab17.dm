@@ -38,7 +38,7 @@
 
 
 /obj/structure/checkoutmachine
-	name = "\improper Nanotrasen Space-Coin Market"
+	name = "\improper Trans-Solar Federation Space-Coin Market"
 	desc = "Это хорошо для Космокоин, потому что."
 	icon = 'icons/obj/machines/money_machine.dmi'
 	icon_state = "bogdanoff"

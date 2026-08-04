@@ -242,7 +242,7 @@
 
 /obj/item/clothing/suit/armor/vest/leather
 	name = "security overcoat"
-	desc = "Lightly armored leather overcoat meant as casual wear for high-ranking officers. Bears the crest of Nanotrasen Security."
+	desc = "Lightly armored leather overcoat meant as casual wear for high-ranking officers. Bears the crest of Trans-Solar Federation Security."
 	icon_state = "leathercoat-sec"
 	inhand_icon_state = "hostrench"
 	body_parts_covered = CHEST|GROIN|ARMS|LEGS
@@ -411,7 +411,7 @@
 
 /obj/item/clothing/suit/armor/swat
 	name = "MK.I SWAT Suit"
-	desc = "A tactical suit first developed in a joint effort by the defunct IS-ERI and Nanotrasen in 2321 for military operations. \
+	desc = "A tactical suit first developed in a joint effort by the defunct IS-ERI and Trans-Solar Federation in 2321 for military operations. \
 		It has a minor slowdown, but offers decent protection and helps the wearer resist shoving in close quarters."
 	icon_state = "heavy"
 	inhand_icon_state = "swat_suit"

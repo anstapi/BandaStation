@@ -158,7 +158,7 @@
 // A dispenser that produces binoculars, for the MediSim shuttle.
 /obj/machinery/drone_dispenser/binoculars
 	name = "binoculars fabricator"
-	desc = "A hefty machine that periodically creates a pair of binoculars. Really, Nanotrasen? We're getting this lazy?"
+	desc = "A hefty machine that periodically creates a pair of binoculars. Really, Trans-Solar Federation? We're getting this lazy?"
 	dispense_type = list(/obj/item/binoculars)
 	starting_amount = SHEET_MATERIAL_AMOUNT * 2.5 //Redudant
 	maximum_idle = 1

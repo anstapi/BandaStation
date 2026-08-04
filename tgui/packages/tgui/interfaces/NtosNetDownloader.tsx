@@ -256,7 +256,7 @@ const Program = (props) => {
       </Box>
       {!program.verifiedsource && (
         <NoticeBox mt={1} mb={0} danger fontSize="12px">
-          Непроверенный источник. Обратите внимание, что Nanotrasen не
+          Непроверенный источник. Обратите внимание, что Trans-Solar Federation не
           рекомендует скачивать и использовать ПО с неофициальных серверов.
         </NoticeBox>
       )}

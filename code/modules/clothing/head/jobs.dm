@@ -414,7 +414,7 @@
 //Security
 /obj/item/clothing/head/hats/hos
 	name = "generic head of security hat"
-	desc = "Please contact the Nanotrasen Costuming Department if found."
+	desc = "Please contact the Trans-Solar Federation Costuming Department if found."
 	abstract_type = /obj/item/clothing/head/hats/hos
 	armor_type = /datum/armor/hats_hos
 	strip_delay = 8 SECONDS
@@ -835,7 +835,7 @@
 //CentCom
 /obj/item/clothing/head/beret/centcom_formal
 	name = "\improper CentCom Formal Beret"
-	desc = "Sometimes, a compromise between fashion and defense needs to be made. Thanks to Nanotrasen's most recent nano-fabric durability enhancements, this time, it's not the case."
+	desc = "Sometimes, a compromise between fashion and defense needs to be made. Thanks to Trans-Solar Federation's most recent nano-fabric durability enhancements, this time, it's not the case."
 	icon_state = "/obj/item/clothing/head/beret/centcom_formal"
 	post_init_icon_state = "beret_badge"
 	greyscale_config = /datum/greyscale_config/beret_badge

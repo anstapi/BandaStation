@@ -164,7 +164,7 @@
 				to_chat(user, span_warning("You do not possess the funds to purchase that."))
 		atom_parent.balloon_alert(user, "needs [total_cost] [MONEY_NAME_AUTOPURAL(total_cost)]!")
 		return FALSE
-	target_acc.transfer_money(idcard.registered_account, total_cost, "Nanotrasen: Usage of Corporate Machinery")
+	target_acc.transfer_money(idcard.registered_account, total_cost, "Trans-Solar Federation: Usage of Corporate Machinery")
 	log_econ("[total_cost][MONEY_NAME] were spent on [parent] by [user] via [idcard.registered_account.account_holder]'s card.")
 	idcard.registered_account.bank_card_talk("[total_cost][MONEY_NAME] deducted from your account.")
 	playsound(src, 'sound/effects/cashregister.ogg', 20, TRUE)

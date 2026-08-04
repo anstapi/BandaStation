@@ -26,13 +26,13 @@
 
 /obj/item/clothing/under/rank/security/officer
 	name = "security uniform"
-	desc = "A tactical security jumpsuit for officers complete with Nanotrasen belt buckle."
+	desc = "A tactical security jumpsuit for officers complete with Trans-Solar Federation belt buckle."
 	icon_state = "rsecurity"
 	inhand_icon_state = "r_suit"
 
 /obj/item/clothing/under/rank/security/officer/grey
 	name = "grey security jumpsuit"
-	desc = "A tactical relic of years past before Nanotrasen decided it was cheaper to dye the suits red instead of washing out the blood."
+	desc = "A tactical relic of years past before Trans-Solar Federation decided it was cheaper to dye the suits red instead of washing out the blood."
 	icon_state = "security"
 	inhand_icon_state = "gy_suit"
 
@@ -72,19 +72,19 @@
 
 /obj/item/clothing/under/rank/security/warden
 	name = "security suit"
-	desc = "A formal security suit for officers complete with Nanotrasen belt buckle."
+	desc = "A formal security suit for officers complete with Trans-Solar Federation belt buckle."
 	icon_state = "rwarden"
 	inhand_icon_state = "r_suit"
 
 /obj/item/clothing/under/rank/security/warden/grey
 	name = "grey security suit"
-	desc = "A formal relic of years past before Nanotrasen decided it was cheaper to dye the suits red instead of washing out the blood."
+	desc = "A formal relic of years past before Trans-Solar Federation decided it was cheaper to dye the suits red instead of washing out the blood."
 	icon_state = "warden"
 	inhand_icon_state = "gy_suit"
 
 /obj/item/clothing/under/rank/security/warden/skirt
 	name = "warden's suitskirt"
-	desc = "A formal security suitskirt for officers complete with Nanotrasen belt buckle."
+	desc = "A formal security suitskirt for officers complete with Trans-Solar Federation belt buckle."
 	icon_state = "rwarden_skirt"
 	inhand_icon_state = "r_suit"
 	body_parts_covered = CHEST|GROIN|ARMS
@@ -236,7 +236,7 @@
 
 /obj/item/clothing/under/rank/prisoner
 	name = "prison jumpsuit"
-	desc = "Standardised Nanotrasen prisoner-wear. Its suit sensors are stuck in the \"Fully On\" position."
+	desc = "Standardised Trans-Solar Federation prisoner-wear. Its suit sensors are stuck in the \"Fully On\" position."
 	icon = 'icons/map_icons/clothing/under/_under.dmi'
 	icon_state = "/obj/item/clothing/under/rank/prisoner"
 	post_init_icon_state = "jumpsuit"
@@ -251,14 +251,14 @@
 	random_sensor = FALSE
 
 /obj/item/clothing/under/rank/prisoner/nosensor
-	desc = "Standardised Nanotrasen prisoner-wear. Its suit sensors are stuck in the \"OFF\" position."
+	desc = "Standardised Trans-Solar Federation prisoner-wear. Its suit sensors are stuck in the \"OFF\" position."
 	has_sensor = NO_SENSORS
 	sensor_mode = SENSOR_OFF
 	flags_1 = parent_type::flags_1 | NO_NEW_GAGS_PREVIEW_1
 
 /obj/item/clothing/under/rank/prisoner/skirt
 	name = "prison jumpskirt"
-	desc = "Standardised Nanotrasen prisoner-wear. Its suit sensors are stuck in the \"Fully On\" position."
+	desc = "Standardised Trans-Solar Federation prisoner-wear. Its suit sensors are stuck in the \"Fully On\" position."
 	icon = 'icons/map_icons/clothing/under/_under.dmi'
 	icon_state = "/obj/item/clothing/under/rank/prisoner/skirt"
 	post_init_icon_state = "jumpskirt"

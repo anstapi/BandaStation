@@ -1,6 +1,6 @@
 /obj/item/skillchip/self_surgery
 	name = "4U70-P3R4710N skillchip"
-	desc = "A skillchip containing old Nanotrasen medical training protocols, which one could use to perform surgical operations on themselves. \
+	desc = "A skillchip containing old Trans-Solar Federation medical training protocols, which one could use to perform surgical operations on themselves. \
 		This one doesn't look like it's in the best condition - bit rot has probably rendered it somewhat risky to use."
 	auto_traits = list(TRAIT_SELF_SURGERY)
 	skill_name = "Self Surgery"

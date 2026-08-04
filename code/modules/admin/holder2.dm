@@ -69,7 +69,7 @@ GLOBAL_PROTECT(href_token)
 	target = ckey
 	name = "[ckey]'s admin datum ([join_admin_ranks(ranks)])"
 	src.ranks = ranks
-	admin_signature = "Nanotrasen Officer #[rand(0,9)][rand(0,9)][rand(0,9)]"
+	admin_signature = "Trans-Solar Federation Officer #[rand(0,9)][rand(0,9)][rand(0,9)]"
 	href_token = GenerateToken()
 	//only admins with +ADMIN start admined
 	if(protected)

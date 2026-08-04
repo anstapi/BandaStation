@@ -333,7 +333,7 @@ ADMIN_VERB(secrets, R_DEBUG|R_FUN, "Secrets", "Abuse harder than you ever have b
 					airlock.req_access = list()
 					airlock.req_one_access = list()
 			message_admins("[key_name_admin(holder)] activated Egalitarian Station mode")
-			priority_announce("Центральное Командование активировало блокировку всех шлюзов. Пожалуйста, потратьте это время на знакомство с коллегами.", null, SSstation.announcer.get_rand_report_sound())
+			priority_announce("Командование ТСФ активировало блокировку всех шлюзов. Пожалуйста, потратьте это время на знакомство с коллегами.", null, SSstation.announcer.get_rand_report_sound())
 		if("send_shuttle_back")
 			if (!is_funmin)
 				return
@@ -624,7 +624,7 @@ ADMIN_VERB(secrets, R_DEBUG|R_FUN, "Secrets", "Abuse harder than you ever have b
 			if(teamsize <= 0)
 				return FALSE
 
-			candidates = SSpolling.poll_ghost_candidates("Do you wish to be considered for a [span_notice("Nanotrasen emergency response drone")]?", check_jobban = ROLE_DRONE, alert_pic = /mob/living/basic/drone/classic, role_name_text = "Nanotrasen emergency response drone")
+			candidates = SSpolling.poll_ghost_candidates("Do you wish to be considered for a [span_notice("Trans-Solar Federation emergency response drone")]?", check_jobban = ROLE_DRONE, alert_pic = /mob/living/basic/drone/classic, role_name_text = "Trans-Solar Federation emergency response drone")
 
 			if(length(candidates) == 0)
 				return FALSE
@@ -634,7 +634,7 @@ ADMIN_VERB(secrets, R_DEBUG|R_FUN, "Secrets", "Abuse harder than you ever have b
 				candidates -= chosen_candidate
 				nerd = new /mob/living/basic/drone/classic(spawnpoint)
 				nerd.PossessByPlayer(chosen_candidate.key)
-				nerd.log_message("has been selected as a Nanotrasen emergency response drone.", LOG_GAME)
+				nerd.log_message("has been selected as a Trans-Solar Federation emergency response drone.", LOG_GAME)
 				teamsize--
 
 			return TRUE

@@ -1,4 +1,4 @@
-// MARK: Nanotrasen CentCom //
+// MARK: Trans-Solar Federation CentCom //
 
 /datum/outfit/centcom/post_equip(mob/living/carbon/human/centcom_member, visuals_only = FALSE)
 	. = ..() // Now centcom staff have mindshield implants
@@ -31,15 +31,15 @@
 
 // CentCom Junior-Officer
 /datum/outfit/centcom/centcom_intern
-	name = "Nanotrasen Navy Junior Officer"
+	name = "Trans-Solar Federation Navy Junior Officer"
 
 	id_trim = /datum/id_trim/centcom/intern
 
 /datum/outfit/centcom/centcom_intern/unarmed
-	name = "Nanotrasen Navy Junior Officer (Unarmed)"
+	name = "Trans-Solar Federation Navy Junior Officer (Unarmed)"
 
 /datum/outfit/centcom/centcom_intern/leader
-	name = "Nanotrasen Navy Junior Officer Chief"
+	name = "Trans-Solar Federation Navy Junior Officer Chief"
 
 	suit = /obj/item/clothing/suit/armor/vest
 	suit_store = /obj/item/gun/ballistic/automatic/pistol/cm23
@@ -48,19 +48,19 @@
 	l_hand = /obj/item/megaphone
 
 /datum/outfit/centcom/centcom_intern/leader/unarmed
-	name = "Nanotrasen Navy Junior Officer Chief (Unarmed)"
+	name = "Trans-Solar Federation Navy Junior Officer Chief (Unarmed)"
 
 /datum/id_trim/centcom/intern
 	access = list(ACCESS_CENT_GENERAL, ACCESS_CENT_LIVING, ACCESS_WEAPONS)
-	assignment = "Nanotrasen Navy Junior Officer"
+	assignment = "Trans-Solar Federation Navy Junior Officer"
 	big_pointer = FALSE
 
 /datum/id_trim/centcom/intern/head
-	assignment = "Nanotrasen Navy Junior Officer Chief"
+	assignment = "Trans-Solar Federation Navy Junior Officer Chief"
 
 // CentCom Navy Officer
 /datum/outfit/centcom/commander
-	name = "Nanotrasen Navy Officer"
+	name = "Trans-Solar Federation Navy Officer"
 
 	id = /obj/item/card/id/advanced/centcom
 	id_trim = /datum/id_trim/centcom/commander
@@ -84,11 +84,11 @@
 	l_pocket = /obj/item/reagent_containers/hypospray/combat/nanites
 
 /datum/id_trim/centcom/commander
-	assignment = "Nanotrasen Navy Officer"
+	assignment = "Trans-Solar Federation Navy Officer"
 
 // CentCom Field Officer
 /datum/outfit/centcom/commander/field
-	name = "Nanotrasen Navy Field Officer"
+	name = "Trans-Solar Federation Navy Field Officer"
 
 	id = /obj/item/card/id/advanced/centcom
 	id_trim = /datum/id_trim/centcom/commander/field
@@ -105,10 +105,10 @@
 	r_pocket = /obj/item/modular_computer/pda/heads/centcom
 
 /datum/id_trim/centcom/commander/field
-	assignment = "Nanotrasen Navy Field Officer"
+	assignment = "Trans-Solar Federation Navy Field Officer"
 
 /datum/outfit/centcom/commander/field/apex
-	name = "Apex Nanotrasen Navy Field Officer"
+	name = "Apex Trans-Solar Federation Navy Field Officer"
 	suit = null
 	mask = null
 	accessory = /obj/item/clothing/accessory/holster/tacticool/ert_gp93r
@@ -177,7 +177,7 @@
 
 // CentCom Diplomat
 /datum/outfit/centcom/diplomat
-	name = "Nanotrasen Diplomat"
+	name = "Trans-Solar Federation Diplomat"
 
 	id = /obj/item/card/id/advanced/centcom
 	id_trim = /datum/id_trim/centcom/diplomat
@@ -214,7 +214,7 @@
 	..()
 
 /datum/id_trim/centcom/diplomat
-	assignment = "Nanotrasen Diplomat"
+	assignment = "Trans-Solar Federation Diplomat"
 
 /datum/id_trim/centcom/diplomat/New()
 	. = ..()

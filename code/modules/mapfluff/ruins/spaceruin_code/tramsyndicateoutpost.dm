@@ -3,7 +3,7 @@
 /obj/item/paper/fluff/ruins/tram_syndicate/initiation
 	name = "Initiation Paperwork"
 	default_raw_text = {"<h1>Congratulations, Agent <i>INSERT NAME HERE</i>!</h1>
-	You have been assigned reconnaissance duty among the orbiting rocks of Indecipheres! Since this location was previously scouted as a potential build site for a Nanotrasen facility, one of our benefactors has taken the opportunity to pre-emptively construct a listening outpost! You have been tasked with monitoring the potential future crew and logging all events onboard. If you are a Nanotrasen employee who has stumbled upon this outpost before it could be properly established: <b>IGNORE THIS PAPER</b>."}
+	You have been assigned reconnaissance duty among the orbiting rocks of Indecipheres! Since this location was previously scouted as a potential build site for a Trans-Solar Federation facility, one of our benefactors has taken the opportunity to pre-emptively construct a listening outpost! You have been tasked with monitoring the potential future crew and logging all events onboard. If you are a Trans-Solar Federation employee who has stumbled upon this outpost before it could be properly established: <b>IGNORE THIS PAPER</b>."}
 
 /obj/item/paper/fluff/ruins/tram_syndicate/blueprints
 	name = "Station Layout"

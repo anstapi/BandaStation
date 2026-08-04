@@ -1,6 +1,6 @@
 /obj/machinery/rnd/experimentor
 	name = "\improper E.X.P.E.R.I-MENTOR"
-	desc = "Experimental Xeon Particle Entropy Reaction Infuser or something like that. Nanotrasen's new reaction infuser, with a slight less tendency to catastrophically fail than the previous model... or so they say."
+	desc = "Experimental Xeon Particle Entropy Reaction Infuser or something like that. Trans-Solar Federation's new reaction infuser, with a slight less tendency to catastrophically fail than the previous model... or so they say."
 	icon = 'icons/obj/machines/experimentator.dmi'
 	icon_state = "h_lathe"
 	base_icon_state = "h_lathe"

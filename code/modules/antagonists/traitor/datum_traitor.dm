@@ -1,6 +1,6 @@
 ///all the employers that are syndicate
 #define FLAVOR_FACTION_SYNDICATE "syndicate"
-///all the employers that are Nanotrasen
+///all the employers that are Trans-Solar Federation
 #define FLAVOR_FACTION_NANOTRASEN "nanotrasen"
 
 /datum/antagonist/traitor
@@ -15,7 +15,7 @@
 	suicide_cry = "ЗА СИНДИКАТ!!"
 	preview_outfit = /datum/outfit/traitor
 	can_assign_self_objectives = TRUE
-	default_custom_objective = "Perform an overcomplicated heist on valuable Nanotrasen assets."
+	default_custom_objective = "Perform an overcomplicated heist on valuable Trans-Solar Federation assets."
 	hardcore_random_bonus = TRUE
 	stinger_sound = 'sound/music/antag/traitor/tatoralert.ogg'
 

@@ -162,7 +162,7 @@
 
 /obj/item/storage/backpack/captain
 	name = "captain's backpack"
-	desc = "It's a special backpack made exclusively for Nanotrasen officers."
+	desc = "It's a special backpack made exclusively for Trans-Solar Federation officers."
 	icon_state = "backpack-captain"
 	inhand_icon_state = "captainpack"
 
@@ -379,7 +379,7 @@
 
 /obj/item/storage/backpack/satchel/cap
 	name = "captain's satchel"
-	desc = "An exclusive satchel for Nanotrasen officers."
+	desc = "An exclusive satchel for Trans-Solar Federation officers."
 	icon_state = "satchel-captain"
 	inhand_icon_state = "satchel-cap"
 
@@ -490,7 +490,7 @@
 
 /obj/item/storage/backpack/messenger/cap
 	name = "captain's messenger bag"
-	desc = "An exclusive messenger bag for Nanotrasen officers, made of real whale leather."
+	desc = "An exclusive messenger bag for Trans-Solar Federation officers, made of real whale leather."
 	icon_state = "messenger_captain"
 	inhand_icon_state = "messenger_captain"
 

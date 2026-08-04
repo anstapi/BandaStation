@@ -78,13 +78,13 @@ function ApcLoggedOut(props) {
             <Stack.Item bold mt={5}>
               Zeus™ Controller Version 0.19
             </Stack.Item>
-            <Stack.Item color="label">Copyright 2526 Nanotrasen</Stack.Item>
+            <Stack.Item color="label">Copyright 2526 Trans-Solar Federation</Stack.Item>
           </Stack>
         </Stack.Item>
         <Stack.Item color="#2a2a2a">
-          Nanotrasen and its affiliates do not endorse this product. Risk of
+          Trans-Solar Federation and its affiliates do not endorse this product. Risk of
           serious bodily injury or death is inherent in the use of any device
-          that generates electricity. Nanotrasen is not responsible for any
+          that generates electricity. Trans-Solar Federation is not responsible for any
           damages caused by the use of this product.
         </Stack.Item>
         <Stack.Item>

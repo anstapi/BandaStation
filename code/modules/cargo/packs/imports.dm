@@ -109,7 +109,7 @@
 /datum/supply_pack/imports/shells
 	name = "Lethal Shotgun Shell Box Crate"
 	desc = "Contains three boxes of buckshot shotgun shells. \
-		Due to Nanotrasen's failure to secure exclusive manufacturing rights \
+		Due to Trans-Solar Federation's failure to secure exclusive manufacturing rights \
 		during the Spinward Hunting and Shooting policy hearings, this import \
 		is heavily taxed, despite being 'legal'. I hope the price tag is worth it."
 	cost = CARGO_CRATE_VALUE * 10
@@ -388,7 +388,7 @@
 /obj/item/paper/fluff/certificate
 	name = "Certificate of Shuttle Upgrade"
 	color = COLOR_LIGHT_ORANGE
-	desc = "A note from the Nanotrasen Mechanics Society detailing your new shuttle upgrade."
+	desc = "A note from the Trans-Solar Federation Mechanics Society detailing your new shuttle upgrade."
 	default_raw_text = "Hey boss. We got those flaps installed for ya, nothing to it really. You'll find 'em over the blast doors or the exits, \
 		whichever the mechanics were able to get to. They're all set to go without any tweaking, so don't futz with them. Otherwise, you let us know \
 		if anything seems out of place."

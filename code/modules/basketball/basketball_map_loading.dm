@@ -47,10 +47,10 @@
 
 /datum/lazy_template/basketball/stadium
 	name = "Stadium"
-	description = "The homecourt for the Nanotrasen Basketball Department."
+	description = "The homecourt for the Trans-Solar Federation Basketball Department."
 	map_name = "stadium"
 	key = "stadium"
-	team_name = "Nanotrasen Basketball Department"
+	team_name = "Trans-Solar Federation Basketball Department"
 	home_team_uniform = /datum/outfit/basketball/nanotrasen
 
 /datum/lazy_template/basketball/lusty_xenomorphs

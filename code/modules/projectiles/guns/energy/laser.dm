@@ -1,6 +1,6 @@
 /obj/item/gun/energy/laser
 	name = "\improper Type 5 laser gun"
-	desc = "The Type 5 Heat Delivery System, developed by Nanotrasen. The workhorse of Nanotrasen's security forces."
+	desc = "The Type 5 Heat Delivery System, developed by Trans-Solar Federation. The workhorse of Trans-Solar Federation's security forces."
 	icon_state = "laser"
 	inhand_icon_state = "laser"
 	w_class = WEIGHT_CLASS_BULKY
@@ -29,7 +29,7 @@
 
 /obj/item/gun/energy/laser/pistol
 	name = "\improper Type 5/C laser pistol"
-	desc = "The Type 5 Heat Delivery System, Compact Variant, developed by Nanotrasen. The workhorse of Nanotrasen's security forces, but in a more portable size. \
+	desc = "The Type 5 Heat Delivery System, Compact Variant, developed by Trans-Solar Federation. The workhorse of Trans-Solar Federation's security forces, but in a more portable size. \
 		Sacrifices some stopping power and capacity for ease of carry and faster charging."
 	icon_state = "laser_pistol"
 	w_class = WEIGHT_CLASS_NORMAL
@@ -42,7 +42,7 @@
 
 /obj/item/gun/energy/laser/assault
 	name = "\improper Type 5/A assault laser rifle"
-	desc = "The Type 5 Heat Delivery System, Assault Variant, developed by Nanotrasen. The workhorse of Nanotrasen's security forces and paramilitary organizations. \
+	desc = "The Type 5 Heat Delivery System, Assault Variant, developed by Trans-Solar Federation. The workhorse of Trans-Solar Federation's security forces and paramilitary organizations. \
 		While it sacrifices some stopping power and ease of use, its laser system is remarkably efficient and it boasts some resistance against electromagnetic interference."
 	icon = 'icons/obj/weapons/guns/wide_guns.dmi'
 	icon_state = "assault_laser"
@@ -77,14 +77,14 @@
 
 /obj/item/gun/energy/laser/retro
 	name ="\improper Type 1 laser gun"
-	desc = "The Type 1 Heat Delivery System, developed by Nanotrasen. No longer used by Nanotrasen's private security or military forces. Nevertheless, \
+	desc = "The Type 1 Heat Delivery System, developed by Trans-Solar Federation. No longer used by Trans-Solar Federation's private security or military forces. Nevertheless, \
 		it is still quite deadly and easy to maintain, making it a favorite amongst pirates and other outlaws."
 	icon_state = "retro"
 	ammo_x_offset = 3
 
 /obj/item/gun/energy/laser/soul
 	name ="\improper Type 3 laser gun"
-	desc = "The Type 3 Heat Delivery System, developed by Nanotrasen. Quite possibly the most popular model of HDS ever made by Nanotrasen. \
+	desc = "The Type 3 Heat Delivery System, developed by Trans-Solar Federation. Quite possibly the most popular model of HDS ever made by Trans-Solar Federation. \
 		They don't make them like they used to."
 	icon_state = "laser_soulful"
 	inhand_icon_state = "laser_soulful"
@@ -92,7 +92,7 @@
 
 /obj/item/gun/energy/laser/carbine
 	name = "\improper Type 5/R laser carbine"
-	desc = "The burst fire Type 5/R Rapid Heat Delivery System, developed by Nanotrasen. Capable of firing a sustained volley of directed energy projectiles, though each individual projectile lacks the punch of the Type 5."
+	desc = "The burst fire Type 5/R Rapid Heat Delivery System, developed by Trans-Solar Federation. Capable of firing a sustained volley of directed energy projectiles, though each individual projectile lacks the punch of the Type 5."
 	icon_state = "laser_carbine"
 	burst_size = 2
 	fire_delay = 2
@@ -133,7 +133,7 @@
 	return
 
 /obj/item/gun/energy/laser/retro/old
-	desc = "The NT Type 1 Heat Delivery System, developed by Nanotrasen. This one looks downright ancient. What the hell happened to it?"
+	desc = "The NT Type 1 Heat Delivery System, developed by Trans-Solar Federation. This one looks downright ancient. What the hell happened to it?"
 	ammo_type = list(/obj/item/ammo_casing/energy/lasergun/old)
 
 /obj/item/gun/energy/laser/retro/old/add_deep_lore()
@@ -141,7 +141,7 @@
 
 /obj/item/gun/energy/laser/hellgun
 	name = "\improper Type 4 'hellfire' laser gun"
-	desc = "The Type 4 Heat Delivery System, developed by Nanotrasen. Technically speaking, it is an improvement. \
+	desc = "The Type 4 Heat Delivery System, developed by Trans-Solar Federation. Technically speaking, it is an improvement. \
 		Legally speaking, possession of this weapon is restricted in most occupied sectors of space. \
 		The Type 4 is notorious for its ability to render victims a carbonized husk with ease, melting flesh and bone as easily as butter. \
 		A painful, gruesome death awaits anyone on the wrong end of this gun."
@@ -234,7 +234,7 @@
 
 /obj/item/gun/energy/laser/xray
 	name = "\improper Type 6 X-ray laser gun"
-	desc = "The Type 6 Heat Delivery System, developed by Nanotrasen. \
+	desc = "The Type 6 Heat Delivery System, developed by Trans-Solar Federation. \
 		Capable of expelling concentrated 'X-ray' blasts that pass through multiple soft targets and heavier materials."
 	icon_state = "xray"
 	w_class = WEIGHT_CLASS_BULKY
@@ -306,17 +306,17 @@
 /obj/item/gun/energy/laser/add_deep_lore()
 	AddElement(/datum/element/examine_lore, \
 		lore_hint = span_notice("You can [EXAMINE_HINT("look closer")] to learn a little more about [src]."), \
-		lore = "The NT Type 5 Heat Delivery System (sometimes referred to as the HDS-5 in promotional material) is what truly put Nanotrasen \
+		lore = "The NT Type 5 Heat Delivery System (sometimes referred to as the HDS-5 in promotional material) is what truly put Trans-Solar Federation \
 		head and shoulders above most weapon manufacturers in the modern era. All modern energy weaponry offered by the company have \
 		the success of the Type 5 to thank for setting the standard for energy-based weapon platforms.<br>\
 		<br>\
-		Adopted as the standard infantry firearm for Nanotrasen military forces, as well as private security lethal armaments, few can deny \
+		Adopted as the standard infantry firearm for Trans-Solar Federation military forces, as well as private security lethal armaments, few can deny \
 		the weapon's reliability, and at an affordable price!<br>\
 		<br>\
 		However, the weapon platform still possesses many of the vulnerabilities of previous energy-based weaponry. Onboard power supplies \
 		cannot be adequately shielded from external electromagnetic pulses that might interfere with the weapon's functionality without \
 		also severely jeopardizing thermal distribution into the weapon's heatsink. The Type 4, which never saw wider adoption, remains a \
-		haunting example to Nanotrasen's weapons division as to the consequences when a HDS is unable to expel thermal buildup safely.<br>\
+		haunting example to Trans-Solar Federation's weapons division as to the consequences when a HDS is unable to expel thermal buildup safely.<br>\
 		<br>\
 		Certainly, the Melted Veterans of Galpha 5 advocacy group will never let them forget it." \
 	)
@@ -329,7 +329,7 @@
 		lore = "The NT Type 1 Heat Delivery System (sometimes referred to as the HDS-1 in older weapon catalogs) was a weapon that \
 		marked the beginning of a new era of firearm development.<br>\
 		<br>\
-		Invented in the think-tank laboratories of Nanotrasen's weapon development team towards the end of the 24th century, the Type 1 found \
+		Invented in the think-tank laboratories of Trans-Solar Federation's weapon development team towards the end of the 24th century, the Type 1 found \
 		itself adopted broadly by various factions and military entities vying for control over the frontier once it hit the market. One \
 		hallmark of those who stood successful in these conflicts was the adoption of the Type 1 as a standard infantry \
 		weapon. The logistics required to maintain the operational peak of the HDS-1 allowed most quartermasters to merely dump a half \
@@ -337,7 +337,7 @@
 		most anything thrown at them, only needing a recharging station with a power supply to become operational again once they ran empty.<br>\
 		<br>\
 		So many of these weapons exist today that even modern conflicts may see more usage of the HDS-1 than the updated and equally \
-		reliable HDS5 employed by Nanotrasen's modern combat forces. Nanotrasen, despite their best efforts, still have not managed \
+		reliable HDS5 employed by Trans-Solar Federation's modern combat forces. Trans-Solar Federation, despite their best efforts, still have not managed \
 		to encourage potential customers to swap for the new model despite a generous exchange discount." \
 	)
 
@@ -350,15 +350,15 @@
 		the most common type of HDS still available on the market. Fondly regarded, with quite a few diehard fans still clinging to their \
 		Type 3s like their lives depended on it, the weapon has its own place in history as the 'gun that could do it all'.<br>\
 		<br>\
-		The Type 3 line ran for several decades before attempts to replace it ever even crossed Nanotrasen's minds. When people think \
+		The Type 3 line ran for several decades before attempts to replace it ever even crossed Trans-Solar Federation's minds. When people think \
 		'laser gun', the Type 3 is usually what comes to mind.<br>\
 		<br>\
-		When Nanotrasen announced its replacement, the Type 4, skeptics were quick to pan the weapon, claiming that it lacked several notable \
+		When Trans-Solar Federation announced its replacement, the Type 4, skeptics were quick to pan the weapon, claiming that it lacked several notable \
 		features that users of the Type 3 had enjoyed for years. As it turns out, most of those critics would end up vindicated after word of \
 		Galpha 5 and the terrible, terrible consequences of the Type 4's volatile nature came to light. Most stuck to the Type 3 and never \
 		looked back, even when the Type 5 rolled out to considerable success in its own right.<br>\
 		<br>\
-		Nanotrasen still services Type 3s, with many of the parts used in the weapon sharing compatible cousins in the Type 5. Most \
+		Trans-Solar Federation still services Type 3s, with many of the parts used in the weapon sharing compatible cousins in the Type 5. Most \
 		examples of the Type 3 today may actually be closer in function and form to the Type 5 than they were during their original \
 		construction, depending on how often it is serviced." \
 	)
@@ -369,10 +369,10 @@
 	AddElement(/datum/element/examine_lore, \
 		lore_hint = span_notice("You can [EXAMINE_HINT("look closer")] to learn a little more about [src]."), \
 		lore = "The NT Type 4 Heat Delivery System (sometimes referred to as the HDS-4 in legal documentation) is considered a notable \
-		example of Nanotrasen's weapons development teams flying too close to the sun.<br>\
+		example of Trans-Solar Federation's weapons development teams flying too close to the sun.<br>\
 		<br>\
 		The success of the Type 3 resulted in shareholders urging marketing to bring out the 'next best thing' in energy-based weaponry. \
-		At the time, Nanotrasen's weapons division had a prototype still in the works, with recently-learned lessons \
+		At the time, Trans-Solar Federation's weapons division had a prototype still in the works, with recently-learned lessons \
 		from the failure-prone Type 2 in mind after it had more than a few catastrophic failures in testing. \
 		However, there were some concerns raised amongst researchers as to the 'moral implications' \
 		that might result from unleashing 'that much directed radioactive material' towards a living being. \
@@ -384,9 +384,9 @@
 		<br>\
 		News outlets and tabloids alike railed against the company for creating what was now being called the 'hellfire' laser gun. In response, most \
 		legal bodies rushed to ban the firearm from sales within their region of space, and the weapon became infamous for its unethical means of ending \
-		sentient life. Laws were passed to ensure power regulators were installed in all future energy-based weaponry sold by Nanotrasen. Nanotrasen quickly \
+		sentient life. Laws were passed to ensure power regulators were installed in all future energy-based weaponry sold by Trans-Solar Federation. Trans-Solar Federation quickly \
 		discontinued the Type 4 in response, and it never saw production from that day forth. However, retrofit kits still exist \
-		on the black market and in some of Nanotrasen's own warehouses. While, legally, it is unlawful to sell and possess a Type 4, Nanotrasen itself \
+		on the black market and in some of Trans-Solar Federation's own warehouses. While, legally, it is unlawful to sell and possess a Type 4, Trans-Solar Federation itself \
 		does not regulate possession of the firearm aboard its own stations, nor does any legal body intend on preventing them from utilizing it in defense \
 		of its own assets." \
 	)
@@ -396,7 +396,7 @@
 /obj/item/gun/energy/laser/captain/add_deep_lore()
 	AddElement(/datum/element/examine_lore, \
 		lore_hint = span_notice("You can [EXAMINE_HINT("look closer")] to learn a little more about [src]."), \
-		lore = "For a brief period, Nanotrasen produced a series of custom-made Type 4 laser guns for a select group of \
+		lore = "For a brief period, Trans-Solar Federation produced a series of custom-made Type 4 laser guns for a select group of \
 		clients, primarily composed of wealthy starship captains, politicians, and military leaders looking to demonstrate prestige before \
 		the common folk.<br>\
 		<br>\
@@ -406,12 +406,12 @@
 		battlefield.<br>\
 		<br>\
 		Copies of this firearm are now prohibited within TerraGov space, and any captured are quickly decommissioned.\
-		This is largely why Nanotrasen <b>insists</b> that any examples held by ranking officers be kept under lock and key. \
+		This is largely why Trans-Solar Federation <b>insists</b> that any examples held by ranking officers be kept under lock and key. \
 		All records of the schematics surrounding this variant of the Type 4 were seized and destroyed, and the creator behind \
 		it was detained in a maximum security TerraGov sanitorium. When they found her again, she appeared to have smeared the walls in her \
 		own blood, claiming that 'She' was coming, and that she had paid dearly for the knowledge of how to make the weapon.<br>\
 		<br>\
-		Even the microfusion breeder cell housed inside the weapon is practically a lost technology, and Nanotrasen have been unable \
+		Even the microfusion breeder cell housed inside the weapon is practically a lost technology, and Trans-Solar Federation have been unable \
 		to reverse engineer the devices exact means of functionality.<br>\
 		<br>\
 		The Syndicate are obviously just as interested in exactly how this weapon is capable of self-perpetuation, hence why the collective \
@@ -426,18 +426,18 @@
 		lore = "The NT Type 6 Heat Delivery System (sometimes referred to as the HDS6 in research notes) is a breakthrough in the \
 		development of man-portable directed energy weaponry.<br>\
 		<br>\
-		Very little is known about the Type 6, as it is a relatively new experimental weapon only accessible to Nanotrasen security forces. \
-		Somehow, Nanotrasen has found a means to 'slip' the energy beams produced by the Type 6 through unintended targets, only impacting \
+		Very little is known about the Type 6, as it is a relatively new experimental weapon only accessible to Trans-Solar Federation security forces. \
+		Somehow, Trans-Solar Federation has found a means to 'slip' the energy beams produced by the Type 6 through unintended targets, only impacting \
 		once it has made contact with a pre-designated target by the weapon's user. It appears to be unable to slip past organic matter reliably, \
 		which hampers its potential for eliminating friendly-fire. However, inorganic targets are left unscathed unless the weapon is directed towards \
 		firing upon the object. This makes the weapon exceptional for asset recovery, defense of entrenched positions, and assaults on defensive structures. <br>\
 		<br>\
-		Nanotrasen claims that this phenomenon is achieved 'through the power of X-rays'. Most critics have highlighted that this is total nonsense. Some claim \
-		that Nanotrasen has discovered a yet-unknown state of matter that the company is exploiting for weapons development and manufacturing. The most \
-		conspiratorially minded of Nanotrasen's critics have even gone as far as to claim it is 'proof of ectoplasm as the sixth element,' \
+		Trans-Solar Federation claims that this phenomenon is achieved 'through the power of X-rays'. Most critics have highlighted that this is total nonsense. Some claim \
+		that Trans-Solar Federation has discovered a yet-unknown state of matter that the company is exploiting for weapons development and manufacturing. The most \
+		conspiratorially minded of Trans-Solar Federation's critics have even gone as far as to claim it is 'proof of ectoplasm as the sixth element,' \
 		perhaps even allowing the weapon to operate through supernatural means: perhaps even powered by the 'spirits of the damned'.<br>\
 		<br>\
-		Whatever the truth may be, the weapon seems to function as advertized, and is even more energy efficient than the Type 5. Nanotrasen \
+		Whatever the truth may be, the weapon seems to function as advertized, and is even more energy efficient than the Type 5. Trans-Solar Federation \
 		expects full commercial rollout sometime in the next quarter." \
 	)
 
@@ -450,7 +450,7 @@
 		amongst TGMC troopers) was a shaky first step into automatic directed energy weaponry. <br>\
 		<br>\
 		Intended for use in special operations, particularly in the hands of orbital drop shock troopers, the Type 5/R was foreseen to be an excellent \
-		addition to Nanotrasen's arsenal of offerings to military forces across occupied space. However, field performance proved grim.<br>\
+		addition to Trans-Solar Federation's arsenal of offerings to military forces across occupied space. However, field performance proved grim.<br>\
 		<br>\
 		The advantages of directed energy weapons is the lightweight impacts felt on the supply chain for logistical officers and quartermasters due to the \
 		only necessary upkeep for the weapons being a consistent power supply, either established or brought to the front, and the occassional cleaning.<br>\

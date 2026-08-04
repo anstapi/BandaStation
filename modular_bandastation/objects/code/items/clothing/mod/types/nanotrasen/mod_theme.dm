@@ -1,10 +1,10 @@
 /datum/mod_theme/praetorian
 	name = "'Praetorian' escort"
-	desc = "A Nanotrasen refit of the Apadyne Technologies modsuit line. Offers higher mobility than the base model, and comes with a snazzy blue-and-black paint job."
-	extended_desc = "A licensed copy of the Shellguard Munitions 'Apadyne Technologies' modsuit, the NA-35 'Praetorian' is specially issued to Nanotrasen Asset Protection's Blueshield Corps: \
-		elite bodyguards charged with protecting Nanotrasen VIPs. As such, the suit's motor and weight distribution systems have seen a measure of improvement, to allow for the \
+	desc = "A Trans-Solar Federation refit of the Apadyne Technologies modsuit line. Offers higher mobility than the base model, and comes with a snazzy blue-and-black paint job."
+	extended_desc = "A licensed copy of the Shellguard Munitions 'Apadyne Technologies' modsuit, the NA-35 'Praetorian' is specially issued to Trans-Solar Federation Asset Protection's Blueshield Corps: \
+		elite bodyguards charged with protecting Trans-Solar Federation VIPs. As such, the suit's motor and weight distribution systems have seen a measure of improvement, to allow for the \
 		Blueshields to more effectively respond to threats facing their charges. Beyond this and its stylish blue & black paint job, however, the Praetorian differs little \
-		from its Shellguard roots, retaining its middling armor ratings and restrictive hardware. Even so, Nanotrasen is more than happy with the design, and has proceeded \
+		from its Shellguard roots, retaining its middling armor ratings and restrictive hardware. Even so, Trans-Solar Federation is more than happy with the design, and has proceeded \
 		with a full rollout of the suit to Blueshields across their corporate empire."
 	default_skin = "praetorian"
 	armor_type = /datum/armor/mod_theme_security

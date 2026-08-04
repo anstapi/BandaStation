@@ -25,7 +25,7 @@ export const SPECIAL_TOKENS = {
 			  <span class='name'>${name || ''}</span>
 			  <hr>
 			  <span class='station'>
-				Научная станция Nanotrasen
+				Научный город Trans-Solar Federation
 				<br>
 				<span class='station_name'>
           ${station || ''}

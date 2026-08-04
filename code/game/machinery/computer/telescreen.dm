@@ -549,7 +549,7 @@ MAPPING_DIRECTIONAL_HELPERS(/obj/machinery/computer/security/telescreen/deep_sto
 		"Thank you for tuning in to the slaughter!",
 		"What a show! And we guarantee next one will be bigger!",
 		"Celebrate the results with Thundermerch!",
-		"This show was brought to you by Nanotrasen.",
+		"This show was brought to you by Trans-Solar Federation.",
 	)
 
 /obj/item/assembly/control/showtime/activate()

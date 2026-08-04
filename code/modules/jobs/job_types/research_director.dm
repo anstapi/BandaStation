@@ -56,7 +56,7 @@
 	name = JOB_RESEARCH_DIRECTOR
 	jobtype = /datum/job/research_director
 
-	id = /obj/item/card/id/advanced/silver
+	id = /obj/item/card/id/advanced/tsf
 	id_trim = /datum/id_trim/job/research_director
 	uniform = /obj/item/clothing/under/rank/rnd/research_director/turtleneck
 	suit = /obj/item/clothing/suit/toggle/labcoat/research_director

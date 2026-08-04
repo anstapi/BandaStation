@@ -289,7 +289,7 @@
 
 /obj/item/storage/bag/sheetsnatcher
 	name = "sheet snatcher"
-	desc = "A patented Nanotrasen storage system designed for any kind of mineral sheet."
+	desc = "A patented Trans-Solar Federation storage system designed for any kind of mineral sheet."
 	icon = 'icons/obj/mining.dmi'
 	icon_state = "sheetsnatcher"
 	worn_icon_state = "satchel"
@@ -302,7 +302,7 @@
 
 /obj/item/storage/bag/sheetsnatcher/debug
 	name = "sheet snatcher EXTREME EDITION"
-	desc = "A Nanotrasen storage system designed which has been given post-market alterations to hold any type of sheet. Comes pre-populated with "
+	desc = "A Trans-Solar Federation storage system designed which has been given post-market alterations to hold any type of sheet. Comes pre-populated with "
 	color = "#ff3737" // I'm too lazy to make a unique sprite
 	w_class = WEIGHT_CLASS_TINY
 	storage_type = /datum/storage/bag/sheet_snatcher_debug

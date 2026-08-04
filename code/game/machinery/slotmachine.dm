@@ -734,7 +734,7 @@
 
 /obj/machinery/computer/slot_machine/syndicate
 	name = "syndicate slot machine"
-	desc = "Gambling for the operative who's already lost everything. Death to Nanotrasen, and death to your wallet."
+	desc = "Gambling for the operative who's already lost everything. Death to Trans-Solar Federation, and death to your wallet."
 	symbol_paths = list(
 		/obj/machinery/nuclearbomb,
 		/obj/item/card/emag,

@@ -1,8 +1,8 @@
 /obj/item/melee/baseball_bat/homerun/centcom
-	name = "Nanotrasen Fleet tactical bat"
-	desc = "Выдвижная тактическая бита Центрального Командования Nanotrasen. \
+	name = "Trans-Solar Federation Fleet tactical bat"
+	desc = "Выдвижная тактическая бита Центрального Командования Trans-Solar Federation. \
 	В официальных документах эта бита проходит под элегантным названием \"Высокоскоростная система доставки СРП\". \
-	Выдаваясь только самым верным и эффективным офицерам Nanotrasen, это оружие является одновременно символом статуса \
+	Выдаваясь только самым верным и эффективным офицерам Trans-Solar Federation, это оружие является одновременно символом статуса \
 	и инструментом высшего правосудия."
 	w_class = WEIGHT_CLASS_SMALL
 	/// Force when concealed

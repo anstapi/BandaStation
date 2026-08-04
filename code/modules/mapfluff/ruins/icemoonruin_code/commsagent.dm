@@ -8,7 +8,7 @@
 		new /datum/tape_message("00:05", text = "Года."),
 		new /datum/tape_message("00:07", text = "Три ЧЕРТОВЫХ года в этом морозильнике"),
 		new /datum/tape_message("00:11", text = "Моя миссия должна быть закончена уже!"),
-		new /datum/tape_message("00:15", text = "Nanotrasen оставил свое место сгнить на как,"),
+		new /datum/tape_message("00:15", text = "Trans-Solar Federation оставил свое место сгнить на как,"),
 		new /datum/tape_message("00:20", text = "8, 9, 10 месяцев? Я потерял счет"),
 		new /datum/tape_message("00:25", text = "Это была миссия для ДВУХ человек,"),
 		new /datum/tape_message("00:29", text = "Но другой агент даже не дает никаких признаков пробуждения..."),
