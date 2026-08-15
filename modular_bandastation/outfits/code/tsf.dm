@@ -16,7 +16,7 @@
 
 /obj/item/card/id/advanced/tsf
 	name = "\improper TSF ID"
-	desc = "Это ваша карта. Карта жителя Марса. Карта гражданина ТСФ. Всё."
+	desc = "Это ID карта. Карта жителя Марса. Карта гражданина ТСФ."
 	icon = 'modular_bandastation/jobs/icons/obj/card.dmi'
 	icon_state = "card_tsf"
 	assigned_icon_state = "assigned_faction"
